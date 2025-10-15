@@ -1,25 +1,69 @@
-location: "Sunnyvale, CA"
+location: "Sunnyvale, CA 94089"
 
 keywords:
-  - "milk"
-  - "salmon"
-  - "blueberry"
-  - "egg(s)?"
-  - "chicken breast"
+  - "(whole|2%|skim)?\\s*milk"
+  - "oat(\\s|-)?milk|oatly"
+  - "yogurt|greek yogurt|酸奶"
+  - "butter|黄油"
+  - "cheese|奶酪"
+  - "egg(s)?|鸡蛋"
+  - "chicken\\s*(breast|thigh|drumstick)|鸡胸|鸡腿"
+  - "beef\\s*(chuck|sirloin|ground)|牛(肉|排)"
+  - "salmon|三文鱼"
+  - "shrimp|对虾|虾仁"
+  - "blueberr(y|ies)|蓝莓"
+  - "strawberr(y|ies)|草莓"
+  - "avocado|牛油果"
+  - "banana(s)?|香蕉"
+  - "broccoli|西兰花"
+  - "spinach|菠菜"
+  - "rice|大米"
+  - "noodle(s)?|面(条)?"
+  - "olive oil|橄榄油"
+  - "coffee|咖啡(豆|粉)"
+  - "toilet paper|纸巾|卷纸"
 
 stores:
-  - name: "Safeway (weekly ad)"
+  # Safeway（两家门店页里自带“View Weekly Ad”按钮）
+  - name: "Safeway — 639 S Bernardo Ave (Sunnyvale)"
     urls:
-      - "https://www.safeway.com/weeklyad.html"
-  - name: "Whole Foods (sales)"
+      - "https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave.html"
+  - name: "Safeway — 150 E El Camino Real (Sunnyvale)"
     urls:
-      - "https://www.wholefoodsmarket.com/sales"
-  - name: "Trader Joe's (Fearless Flyer)"
+      - "https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real.html"
+
+  # Whole Foods（门店页 + Sales Flyer 总入口）
+  - name: "Whole Foods Market — Sunnyvale"
     urls:
-      - "https://www.traderjoes.com/home/fearless-flyer"
-  - name: "Target (grocery deals)"
+      - "https://www.wholefoodsmarket.com/stores/sunnyvale"
+      - "https://www.wholefoodsmarket.com/sales-flyer"
+
+  # Trader Joe’s（门店页稳定；Flyer 页面常换版，保留门店页为主）
+  - name: "Trader Joe’s — Sunnyvale (#68)"
     urls:
-      - "https://www.target.com/c/grocery-deals/-/N-4y8x1"
+      - "https://locations.traderjoes.com/ca/sunnyvale/68/"
+
+  # Target（门店页 + 杂货周刊类目页）
+  - name: "Target — Sunnyvale (Store 2584)"
+    urls:
+      - "https://www.target.com/sl/sunnyvale/2584"
+      - "https://www.target.com/c/grocery/weekly-ad/-/N-5xt1aZ55dgn"
+
+  # 99 Ranch（官方首页 + H5 周报示例：不同门店需换 ID；后续我可加专用解析器）
+  - name: "99 Ranch Market — (select store)"
+    urls:
+      - "https://www.99ranch.com/"
+      - "https://h5.awsprod.99ranch.com/stores/ad/1772"  # 示例H5，便于调通抓取；后续换成你常去门店ID
+
+  # Nob Hill（Raley’s 体系，两家就近店 + Weekly Ad 入口）
+  - name: "Nob Hill Foods — Mountain View (Grant Rd)"
+    urls:
+      - "https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california"
+      - "https://www.raleys.com/weekly-ad"
+  - name: "Nob Hill Foods — Santa Clara (Monroe St)"
+    urls:
+      - "https://raleys.com/stores/nob-hill-foods-monroe-santa-california"
+      - "https://www.raleys.com/weekly-ad"
 
 output:
   format: "markdown"
