@@ -1,0 +1,26 @@
+location: "Sunnyvale, CA"
+
+keywords:
+  - "milk"
+  - "salmon"
+  - "blueberry"
+  - "egg(s)?"
+  - "chicken breast"
+
+stores:
+  - name: "Safeway (weekly ad)"
+    urls:
+      - "https://www.safeway.com/weeklyad.html"
+  - name: "Whole Foods (sales)"
+    urls:
+      - "https://www.wholefoodsmarket.com/sales"
+  - name: "Trader Joe's (Fearless Flyer)"
+    urls:
+      - "https://www.traderjoes.com/home/fearless-flyer"
+  - name: "Target (grocery deals)"
+    urls:
+      - "https://www.target.com/c/grocery-deals/-/N-4y8x1"
+
+output:
+  format: "markdown"
+  path: "./docs/index.md"
