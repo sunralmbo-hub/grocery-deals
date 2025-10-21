@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-10-20 16:40 UTC_
+_Last updated: 2025-10-21 16:40 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -38,7 +38,7 @@ _Last updated: 2025-10-20 16:40 UTC_
 - <a href='https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_644c8148-55d3-4db3-a838-af7afd8cd05a?wid=256&qlt=80' alt='$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car](https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800)** — $0.89($0.30/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -47,6 +47,7 @@ _Last updated: 2025-10-20 16:40 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-10-21.csv](../data/daily-2025-10-21.csv)
 - [daily-2025-10-20.csv](../data/daily-2025-10-20.csv)
 - [daily-2025-10-19.csv](../data/daily-2025-10-19.csv)
 - [daily-2025-10-18.csv](../data/daily-2025-10-18.csv)
