@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-11-04 16:41 UTC_
+_Last updated: 2025-11-05 16:44 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -15,13 +15,12 @@ _Last updated: 2025-11-04 16:41 UTC_
 ### Whole Foods Market — Sunnyvale
 - <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
 - <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Deals and Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Deals and Sales](https://www.wholefoodsmarket.com/amazon/prime)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='New York Strip Steaks*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[New York Strip Steaks*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Organic Frozen Whole Turkey *' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Organic Frozen Whole Turkey *](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 - <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Select Organic Turkey Bacon*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Select Organic Turkey Bacon*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Select Frozen Seafood Appetizers and Cakes*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Select Frozen Seafood Appetizers and Cakes*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Air-Chilled Bone-In Chicken Split Breasts*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Air-Chilled Bone-In Chicken Split Breasts*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Halibut Fillets*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Halibut Fillets*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Bone-In Lamb Loin Chops*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Bone-In Lamb Loin Chops*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 - <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Medium Hass Avocados*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Medium Hass Avocados*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Seedless Red Grapes*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Seedless Red Grapes*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='King Salmon Fillets*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[King Salmon Fillets*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Honeycrisp Apples*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Honeycrisp Apples*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
@@ -48,6 +47,7 @@ _Last updated: 2025-11-04 16:41 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-11-05.csv](../data/daily-2025-11-05.csv)
 - [daily-2025-11-04.csv](../data/daily-2025-11-04.csv)
 - [daily-2025-11-03.csv](../data/daily-2025-11-03.csv)
 - [daily-2025-11-02.csv](../data/daily-2025-11-02.csv)
@@ -57,6 +57,5 @@ _Last updated: 2025-11-04 16:41 UTC_
 - [daily-2025-10-29.csv](../data/daily-2025-10-29.csv)
 - [daily-2025-10-28.csv](../data/daily-2025-10-28.csv)
 - [daily-2025-10-27.csv](../data/daily-2025-10-27.csv)
-- [daily-2025-10-26.csv](../data/daily-2025-10-26.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
