@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-11-05 16:44 UTC_
+_Last updated: 2025-11-06 16:45 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -32,8 +32,9 @@ _Last updated: 2025-11-05 16:44 UTC_
 - <a href='https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_46734303-d315-433e-b05c-5b520e7d0f39?wid=384&qlt=80' alt='$2.19 ( $0.27 /ounce ) Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.19 ( $0.27 /ounce ) Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart](https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113)** — $2.19($0.27/ounce)
 - <a href='https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_c3935e5f-5b66-4bf1-a38b-ad72121b9d4f?wid=384&qlt=80' alt='$3.19 ( $0.20 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.19 ( $0.20 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A](https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905)** — $3.19($0.20/fluid ounce)New lower price
 - <a href='https://www.target.com/p/100-pure-pumpkin-15oz-good-38-gather-8482/-/A-81647715' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6b3227f6-cb70-42f9-a346-f91addb14fa0?wid=384&qlt=80' alt='$1.59 ( $0.11 /ounce ) New lower price 100% Pure Pumpkin - 15oz - Good & Gather™ 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.59 ( $0.11 /ounce ) New lower price 100% Pure Pumpkin - 15oz - Good & Gather™ 4.7 out of 5 stars Add to cart](https://www.target.com/p/100-pure-pumpkin-15oz-good-38-gather-8482/-/A-81647715)** — $1.59($0.11/ounce)New lower price
-- <a href='https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e47d3e0f-8cf1-4dfb-ae2e-ed937da0970e?wid=384&qlt=80' alt='$2.59 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.59 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart](https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127)** — $2.59($0.04/fluid ounce)
+- <a href='https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e47d3e0f-8cf1-4dfb-ae2e-ed937da0970e?wid=384&qlt=80' alt='$2.69 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.69 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart](https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127)** — $2.69($0.04/fluid ounce)
 - <a href='https://www.target.com/p/chobani-flip-almond-coco-loco-low-fat-greek-yogurt-4-5oz/-/A-14990475' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_4a30c351-9266-49e3-95da-eda5bd457d78?wid=384&qlt=80' alt='$1.49 ( $0.33 /ounce ) Chobani Flip Almond Coco Loco Low Fat Greek Yogurt - 4.5oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.49 ( $0.33 /ounce ) Chobani Flip Almond Coco Loco Low Fat Greek Yogurt - 4.5oz Add to cart](https://www.target.com/p/chobani-flip-almond-coco-loco-low-fat-greek-yogurt-4-5oz/-/A-14990475)** — $1.49($0.33/ounce)
+- <a href='https://www.target.com/p/fairlife-lactose-free-2-milk-52-fl-oz/-/A-17093211' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_8d4d5feb-a00d-4bbf-8ab2-c05996407e9c?wid=384&qlt=80' alt='$5.29 ( $0.10 /fluid ounce ) Fairlife Lactose-Free 2% Milk - 52 fl oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.10 /fluid ounce ) Fairlife Lactose-Free 2% Milk - 52 fl oz Add to cart](https://www.target.com/p/fairlife-lactose-free-2-milk-52-fl-oz/-/A-17093211)** — $5.29($0.10/fluid ounce)
 - <a href='https://www.target.com/p/chobani-strawberry-banana-on-the-bottom-low-fat-greek-yogurt-4ct-5-3oz-cups/-/A-15247367' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_1416b11b-bc92-4063-9c4f-6f32213aa3c4?wid=384&qlt=80' alt='$5.29 ( $0.25 /ounce ) Buy 1, get 1 25% off select Chobani Greek yogurt Chobani Strawberry Banana on the Bottom Low-Fat ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.25 /ounce ) Buy 1, get 1 25% off select Chobani Greek yogurt Chobani Strawberry Banana on the Bottom Low-Fat ](https://www.target.com/p/chobani-strawberry-banana-on-the-bottom-low-fat-greek-yogurt-4ct-5-3oz-cups/-/A-15247367)** — $5.29($0.25/ounce)Buy 1, get 1 25% off select Chobani Greek yogurt
 - <a href='https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_644c8148-55d3-4db3-a838-af7afd8cd05a?wid=384&qlt=80' alt='$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car](https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800)** — $0.89($0.30/ounce)
 
@@ -41,12 +42,15 @@ _Last updated: 2025-11-05 16:44 UTC_
 - **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2025-11-06.csv](../data/daily-2025-11-06.csv)
 - [daily-2025-11-05.csv](../data/daily-2025-11-05.csv)
 - [daily-2025-11-04.csv](../data/daily-2025-11-04.csv)
 - [daily-2025-11-03.csv](../data/daily-2025-11-03.csv)
@@ -56,6 +60,5 @@ _Last updated: 2025-11-05 16:44 UTC_
 - [daily-2025-10-30.csv](../data/daily-2025-10-30.csv)
 - [daily-2025-10-29.csv](../data/daily-2025-10-29.csv)
 - [daily-2025-10-28.csv](../data/daily-2025-10-28.csv)
-- [daily-2025-10-27.csv](../data/daily-2025-10-27.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
