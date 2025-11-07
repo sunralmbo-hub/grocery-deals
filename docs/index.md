@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-11-06 16:45 UTC_
+_Last updated: 2025-11-07 16:38 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -39,17 +39,16 @@ _Last updated: 2025-11-06 16:45 UTC_
 - <a href='https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_644c8148-55d3-4db3-a838-af7afd8cd05a?wid=384&qlt=80' alt='$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car](https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800)** — $0.89($0.30/ounce)
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-11-07.csv](../data/daily-2025-11-07.csv)
 - [daily-2025-11-06.csv](../data/daily-2025-11-06.csv)
 - [daily-2025-11-05.csv](../data/daily-2025-11-05.csv)
 - [daily-2025-11-04.csv](../data/daily-2025-11-04.csv)
@@ -59,6 +58,5 @@ _Last updated: 2025-11-06 16:45 UTC_
 - [daily-2025-10-31.csv](../data/daily-2025-10-31.csv)
 - [daily-2025-10-30.csv](../data/daily-2025-10-30.csv)
 - [daily-2025-10-29.csv](../data/daily-2025-10-29.csv)
-- [daily-2025-10-28.csv](../data/daily-2025-10-28.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
