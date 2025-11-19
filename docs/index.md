@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-11-18 16:45 UTC_
+_Last updated: 2025-11-19 16:44 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -16,10 +16,10 @@ _Last updated: 2025-11-18 16:45 UTC_
 - <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
 - <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Deals and Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Deals and Sales](https://www.wholefoodsmarket.com/amazon/prime)**
 - <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Organic Frozen Whole Turkey *' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Organic Frozen Whole Turkey *](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Boneless Pork Loin Chops*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Boneless Pork Loin Chops*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Bartlett and Bosc Pears*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Bartlett and Bosc Pears*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Brussels Sprouts, 32 oz*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Brussels Sprouts, 32 oz*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Hard Squashes*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Hard Squashes*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Broths, 32 oz*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Broths, 32 oz*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Sweet Potatoes*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sweet Potatoes*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Green Beans, 24 oz*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Green Beans, 24 oz*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Blueberries, 1 pt*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Blueberries, 1 pt*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
@@ -37,7 +37,7 @@ _Last updated: 2025-11-18 16:45 UTC_
 - <a href='https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_644c8148-55d3-4db3-a838-af7afd8cd05a?wid=384&qlt=80' alt='$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car](https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800)** — $0.89($0.30/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -46,6 +46,7 @@ _Last updated: 2025-11-18 16:45 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-11-19.csv](../data/daily-2025-11-19.csv)
 - [daily-2025-11-18.csv](../data/daily-2025-11-18.csv)
 - [daily-2025-11-17.csv](../data/daily-2025-11-17.csv)
 - [daily-2025-11-16.csv](../data/daily-2025-11-16.csv)
@@ -55,6 +56,5 @@ _Last updated: 2025-11-18 16:45 UTC_
 - [daily-2025-11-12.csv](../data/daily-2025-11-12.csv)
 - [daily-2025-11-11.csv](../data/daily-2025-11-11.csv)
 - [daily-2025-11-10.csv](../data/daily-2025-11-10.csv)
-- [daily-2025-11-09.csv](../data/daily-2025-11-09.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
