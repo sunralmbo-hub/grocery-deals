@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-11-19 16:44 UTC_
+_Last updated: 2025-11-20 16:44 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -25,10 +25,10 @@ _Last updated: 2025-11-19 16:44 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at Sunnyvale](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
-- <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $5.00
-- <a href='https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_46734303-d315-433e-b05c-5b520e7d0f39?wid=384&qlt=80' alt='$2.19 ( $0.27 /ounce ) Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.19 ( $0.27 /ounce ) Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart](https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113)** — $2.19($0.27/ounce)
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at Sunnyvale](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.50Sale
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Skip to next section $3.50 Sale Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.50 Sale Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, A](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.50Sale
+- <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$3.50 Sale Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.50 Sale Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic ](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $3.50Sale
+- <a href='https://www.target.com/p/fairlife-lactose-free-2-chocolate-milk-52-fl-oz/-/A-17093199' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cc1a3964-af13-4fce-90ad-63945cc38138?wid=384&qlt=80' alt='$4.99 ( $0.10 /fluid ounce ) Sale Fairlife Lactose-Free 2% Chocolate Milk - 52 fl oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.99 ( $0.10 /fluid ounce ) Sale Fairlife Lactose-Free 2% Chocolate Milk - 52 fl oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/fairlife-lactose-free-2-chocolate-milk-52-fl-oz/-/A-17093199)** — $4.99($0.10/fluid ounce)Sale
 - <a href='https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_c3935e5f-5b66-4bf1-a38b-ad72121b9d4f?wid=384&qlt=80' alt='$3.19 ( $0.20 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.19 ( $0.20 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A](https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905)** — $3.19($0.20/fluid ounce)New lower price
 - <a href='https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e47d3e0f-8cf1-4dfb-ae2e-ed937da0970e?wid=384&qlt=80' alt='$2.69 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.69 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart](https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127)** — $2.69($0.04/fluid ounce)
 - <a href='https://www.target.com/p/chobani-flip-almond-coco-loco-low-fat-greek-yogurt-4-5oz/-/A-14990475' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_4a30c351-9266-49e3-95da-eda5bd457d78?wid=384&qlt=80' alt='$1.49 ( $0.33 /ounce ) Buy 6 for $6 select Chobani Greek yogurt Chobani Flip Almond Coco Loco Low Fat Greek Yogurt - 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.49 ( $0.33 /ounce ) Buy 6 for $6 select Chobani Greek yogurt Chobani Flip Almond Coco Loco Low Fat Greek Yogurt - 4.5](https://www.target.com/p/chobani-flip-almond-coco-loco-low-fat-greek-yogurt-4-5oz/-/A-14990475)** — $1.49($0.33/ounce)Buy 6 for $6 select Chobani Greek yogurt
@@ -37,7 +37,7 @@ _Last updated: 2025-11-19 16:44 UTC_
 - <a href='https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_644c8148-55d3-4db3-a838-af7afd8cd05a?wid=384&qlt=80' alt='$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car](https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800)** — $0.89($0.30/ounce)
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -46,6 +46,7 @@ _Last updated: 2025-11-19 16:44 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-11-20.csv](../data/daily-2025-11-20.csv)
 - [daily-2025-11-19.csv](../data/daily-2025-11-19.csv)
 - [daily-2025-11-18.csv](../data/daily-2025-11-18.csv)
 - [daily-2025-11-17.csv](../data/daily-2025-11-17.csv)
@@ -55,6 +56,5 @@ _Last updated: 2025-11-19 16:44 UTC_
 - [daily-2025-11-13.csv](../data/daily-2025-11-13.csv)
 - [daily-2025-11-12.csv](../data/daily-2025-11-12.csv)
 - [daily-2025-11-11.csv](../data/daily-2025-11-11.csv)
-- [daily-2025-11-10.csv](../data/daily-2025-11-10.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
