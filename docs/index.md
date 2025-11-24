@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-11-23 16:37 UTC_
+_Last updated: 2025-11-24 16:38 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -38,7 +38,7 @@ _Last updated: 2025-11-23 16:37 UTC_
 - <a href='https://www.target.com/p/chobani-dairy-creamer-caramel-macchiato-24-fl-oz/-/A-91963030' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cc06f807-9b60-4ab2-a318-ec470b38e991?wid=384&qlt=80' alt='$6.29 ( $0.26 /fluid ounce ) Buy 1, get 1 25% off select Chobani coffee creamers Chobani Caramel Macchiato Dairy Creamer' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$6.29 ( $0.26 /fluid ounce ) Buy 1, get 1 25% off select Chobani coffee creamers Chobani Caramel Macchiato Dairy Creamer](https://www.target.com/p/chobani-dairy-creamer-caramel-macchiato-24-fl-oz/-/A-91963030)** — $6.29($0.26/fluid ounce)Buy 1, get 1 25% off select Chobani coffee creamers
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -47,6 +47,7 @@ _Last updated: 2025-11-23 16:37 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-11-24.csv](../data/daily-2025-11-24.csv)
 - [daily-2025-11-23.csv](../data/daily-2025-11-23.csv)
 - [daily-2025-11-22.csv](../data/daily-2025-11-22.csv)
 - [daily-2025-11-21.csv](../data/daily-2025-11-21.csv)
@@ -56,6 +57,5 @@ _Last updated: 2025-11-23 16:37 UTC_
 - [daily-2025-11-17.csv](../data/daily-2025-11-17.csv)
 - [daily-2025-11-16.csv](../data/daily-2025-11-16.csv)
 - [daily-2025-11-15.csv](../data/daily-2025-11-15.csv)
-- [daily-2025-11-14.csv](../data/daily-2025-11-14.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
