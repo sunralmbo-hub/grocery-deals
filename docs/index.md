@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-12-01 16:46 UTC_
+_Last updated: 2025-12-02 16:47 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -30,7 +30,7 @@ _Last updated: 2025-12-01 16:46 UTC_
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_fdcd2e42-1d87-4b92-aebc-abab6719cb08?wid=384&qlt=80' alt='Skip to next section $3.49 ( $0.29 /count ) Cage-Free Fresh Grade A Large Brown Eggs - 12ct - Good & Gather™ 4.6 out of ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.49 ( $0.29 /count ) Cage-Free Fresh Grade A Large Brown Eggs - 12ct - Good & Gather™ 4.6 out of ](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.49($0.29/count)
 - <a href='https://www.target.com/p/cage-free-fresh-grade-a-large-brown-eggs-12ct-good-38-gather-8482/-/A-14662561' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_fdcd2e42-1d87-4b92-aebc-abab6719cb08?wid=384&qlt=80' alt='$3.49 ( $0.29 /count ) Cage-Free Fresh Grade A Large Brown Eggs - 12ct - Good & Gather™ 4.6 out of 5 stars Add to cart $' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.49 ( $0.29 /count ) Cage-Free Fresh Grade A Large Brown Eggs - 12ct - Good & Gather™ 4.6 out of 5 stars Add to cart $](https://www.target.com/p/cage-free-fresh-grade-a-large-brown-eggs-12ct-good-38-gather-8482/-/A-14662561)** — $3.49($0.29/count)
 - <a href='https://www.target.com/p/cage-free-fresh-grade-a-large-brown-eggs-12ct-good-38-gather-8482/-/A-14662561' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_fdcd2e42-1d87-4b92-aebc-abab6719cb08?wid=384&qlt=80' alt='$3.49 ( $0.29 /count ) Cage-Free Fresh Grade A Large Brown Eggs - 12ct - Good & Gather™ 4.6 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.49 ( $0.29 /count ) Cage-Free Fresh Grade A Large Brown Eggs - 12ct - Good & Gather™ 4.6 out of 5 stars Add to cart](https://www.target.com/p/cage-free-fresh-grade-a-large-brown-eggs-12ct-good-38-gather-8482/-/A-14662561)** — $3.49($0.29/count)
-- <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$3.00 Sale Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.00 Sale Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic ](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $3.00Sale
+- <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $5.00
 - <a href='https://www.target.com/p/fairlife-lactose-free-2-chocolate-milk-52-fl-oz/-/A-17093199' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cc1a3964-af13-4fce-90ad-63945cc38138?wid=384&qlt=80' alt='$5.29 ( $0.10 /fluid ounce ) Fairlife Lactose-Free 2% Chocolate Milk - 52 fl oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.10 /fluid ounce ) Fairlife Lactose-Free 2% Chocolate Milk - 52 fl oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/fairlife-lactose-free-2-chocolate-milk-52-fl-oz/-/A-17093199)** — $5.29($0.10/fluid ounce)
 - <a href='https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_46734303-d315-433e-b05c-5b520e7d0f39?wid=384&qlt=80' alt='$2.19 ( $0.27 /ounce ) Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.19 ( $0.27 /ounce ) Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart](https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113)** — $2.19($0.27/ounce)
 - <a href='https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_c3935e5f-5b66-4bf1-a38b-ad72121b9d4f?wid=384&qlt=80' alt='$3.19 ( $0.20 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.19 ( $0.20 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A](https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905)** — $3.19($0.20/fluid ounce)New lower price
@@ -41,17 +41,16 @@ _Last updated: 2025-12-01 16:46 UTC_
 - <a href='https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_644c8148-55d3-4db3-a838-af7afd8cd05a?wid=384&qlt=80' alt='$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$0.89 ( $0.30 /ounce ) Purina Fancy Feast Classic Paté Gourmet Wet Cat Food Salmon, Fish & Shrimp Feast - 3oz Add to car](https://www.target.com/p/purina-fancy-feast-classic-pat-233-gourmet-wet-cat-food-salmon-fish-38-shrimp-feast-3oz/-/A-14779800)** — $0.89($0.30/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-12-02.csv](../data/daily-2025-12-02.csv)
 - [daily-2025-12-01.csv](../data/daily-2025-12-01.csv)
 - [daily-2025-11-30.csv](../data/daily-2025-11-30.csv)
 - [daily-2025-11-29.csv](../data/daily-2025-11-29.csv)
@@ -61,6 +60,5 @@ _Last updated: 2025-12-01 16:46 UTC_
 - [daily-2025-11-25.csv](../data/daily-2025-11-25.csv)
 - [daily-2025-11-24.csv](../data/daily-2025-11-24.csv)
 - [daily-2025-11-23.csv](../data/daily-2025-11-23.csv)
-- [daily-2025-11-22.csv](../data/daily-2025-11-22.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
