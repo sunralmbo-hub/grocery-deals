@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-12-12 16:42 UTC_
+_Last updated: 2025-12-13 16:40 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -13,7 +13,12 @@ _Last updated: 2025-12-12 16:42 UTC_
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
 
 ### Whole Foods Market — Sunnyvale
-- （没有匹配到你的关键词）
+- <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
+- <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Store Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Store Sales](https://www.wholefoodsmarket.com/amazon/prime)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Bone-In Spiral-Cut Ham*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Bone-In Spiral-Cut Ham*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Air-Chilled Boneless Skinless Chicken Breast*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Air-Chilled Boneless Skinless Chicken Breast*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Fresh Atlantic Salmon Fillets*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Fresh Atlantic Salmon Fillets*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Cosmic Crisp Apples*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Cosmic Crisp Apples*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
@@ -32,7 +37,7 @@ _Last updated: 2025-12-12 16:42 UTC_
 - <a href='https://www.target.com/p/chobani-strawberry-banana-on-the-bottom-low-fat-greek-yogurt-4ct-5-3oz-cups/-/A-15247367' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_1416b11b-bc92-4063-9c4f-6f32213aa3c4?wid=384&qlt=80' alt='$5.29 ( $0.25 /ounce ) Chobani Strawberry Banana on the Bottom Low-Fat Greek Yogurt - 11g Protein 4ct/5.3oz Cups Add to ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.25 /ounce ) Chobani Strawberry Banana on the Bottom Low-Fat Greek Yogurt - 11g Protein 4ct/5.3oz Cups Add to ](https://www.target.com/p/chobani-strawberry-banana-on-the-bottom-low-fat-greek-yogurt-4ct-5-3oz-cups/-/A-15247367)** — $5.29($0.25/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -41,6 +46,7 @@ _Last updated: 2025-12-12 16:42 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-12-13.csv](../data/daily-2025-12-13.csv)
 - [daily-2025-12-12.csv](../data/daily-2025-12-12.csv)
 - [daily-2025-12-11.csv](../data/daily-2025-12-11.csv)
 - [daily-2025-12-10.csv](../data/daily-2025-12-10.csv)
@@ -50,6 +56,5 @@ _Last updated: 2025-12-12 16:42 UTC_
 - [daily-2025-12-06.csv](../data/daily-2025-12-06.csv)
 - [daily-2025-12-05.csv](../data/daily-2025-12-05.csv)
 - [daily-2025-12-04.csv](../data/daily-2025-12-04.csv)
-- [daily-2025-12-03.csv](../data/daily-2025-12-03.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
