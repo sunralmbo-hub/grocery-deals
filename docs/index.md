@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-12-15 16:50 UTC_
+_Last updated: 2025-12-16 16:48 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -46,6 +46,7 @@ _Last updated: 2025-12-15 16:50 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-12-16.csv](../data/daily-2025-12-16.csv)
 - [daily-2025-12-15.csv](../data/daily-2025-12-15.csv)
 - [daily-2025-12-14.csv](../data/daily-2025-12-14.csv)
 - [daily-2025-12-13.csv](../data/daily-2025-12-13.csv)
@@ -55,6 +56,5 @@ _Last updated: 2025-12-15 16:50 UTC_
 - [daily-2025-12-09.csv](../data/daily-2025-12-09.csv)
 - [daily-2025-12-08.csv](../data/daily-2025-12-08.csv)
 - [daily-2025-12-07.csv](../data/daily-2025-12-07.csv)
-- [daily-2025-12-06.csv](../data/daily-2025-12-06.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
