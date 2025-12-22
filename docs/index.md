@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-12-21 16:40 UTC_
+_Last updated: 2025-12-22 16:44 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -24,10 +24,10 @@ _Last updated: 2025-12-21 16:40 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at Sunnyvale](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $5.00
-- <a href='https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_46734303-d315-433e-b05c-5b520e7d0f39?wid=384&qlt=80' alt='$1.99 ( $0.25 /ounce ) Sale Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.25 /ounce ) Sale Shredded Mexican-Style Cheese - 8oz - Good & Gather™ 4.7 out of 5 stars Add to cart](https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113)** — $1.99($0.25/ounce)Sale
+- <a href='https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_46734303-d315-433e-b05c-5b520e7d0f39?wid=384&qlt=80' alt='$1.99 ( $0.25 /ounce ) Sale Shredded Mexican-Style Cheese - 8oz - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.25 /ounce ) Sale Shredded Mexican-Style Cheese - 8oz - Good & Gather™ Add to cart](https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113)** — $1.99($0.25/ounce)Sale
 - <a href='https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e47d3e0f-8cf1-4dfb-ae2e-ed937da0970e?wid=384&qlt=80' alt='$2.79 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart](https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127)** — $2.79($0.04/fluid ounce)
 - <a href='https://www.target.com/p/chobani-flip-almond-coco-loco-low-fat-greek-yogurt-4-5oz/-/A-14990475' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_4a30c351-9266-49e3-95da-eda5bd457d78?wid=384&qlt=80' alt='$1.49 ( $0.33 /ounce ) Chobani Flip Almond Coco Loco Low Fat Greek Yogurt - 4.5oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.49 ( $0.33 /ounce ) Chobani Flip Almond Coco Loco Low Fat Greek Yogurt - 4.5oz Add to cart](https://www.target.com/p/chobani-flip-almond-coco-loco-low-fat-greek-yogurt-4-5oz/-/A-14990475)** — $1.49($0.33/ounce)
 - <a href='https://www.target.com/p/colby-jack-deli-sliced-cheese-8oz-12-slices-good-38-gather-8482/-/A-54340560' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_dc577c72-20ab-4cf2-a01f-1325efab5bd7?wid=384&qlt=80' alt='$1.79 ( $0.22 /ounce ) New lower price Colby Jack Deli Sliced Cheese - 8oz/12 slices - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.79 ( $0.22 /ounce ) New lower price Colby Jack Deli Sliced Cheese - 8oz/12 slices - Good & Gather™ Add to cart](https://www.target.com/p/colby-jack-deli-sliced-cheese-8oz-12-slices-good-38-gather-8482/-/A-54340560)** — $1.79($0.22/ounce)New lower price
@@ -37,7 +37,7 @@ _Last updated: 2025-12-21 16:40 UTC_
 - <a href='https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0b107beb-e9df-4bcc-a911-0923736a1d7a?wid=384&qlt=80' alt='$3.39 ( $0.42 /ounce ) Buy 2 for $5 select Philadelphia cheese - 8oz Philadelphia Original Cream Cheese - 8oz Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.39 ( $0.42 /ounce ) Buy 2 for $5 select Philadelphia cheese - 8oz Philadelphia Original Cream Cheese - 8oz Add to car](https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523)** — $3.39($0.42/ounce)Buy 2 for $5 select Philadelphia cheese - 8oz
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -46,6 +46,7 @@ _Last updated: 2025-12-21 16:40 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-12-22.csv](../data/daily-2025-12-22.csv)
 - [daily-2025-12-21.csv](../data/daily-2025-12-21.csv)
 - [daily-2025-12-20.csv](../data/daily-2025-12-20.csv)
 - [daily-2025-12-19.csv](../data/daily-2025-12-19.csv)
@@ -55,6 +56,5 @@ _Last updated: 2025-12-21 16:40 UTC_
 - [daily-2025-12-15.csv](../data/daily-2025-12-15.csv)
 - [daily-2025-12-14.csv](../data/daily-2025-12-14.csv)
 - [daily-2025-12-13.csv](../data/daily-2025-12-13.csv)
-- [daily-2025-12-12.csv](../data/daily-2025-12-12.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
