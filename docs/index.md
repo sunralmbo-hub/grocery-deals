@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2025-12-26 16:41 UTC_
+_Last updated: 2025-12-27 16:41 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -24,10 +24,9 @@ _Last updated: 2025-12-26 16:41 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at Sunnyvale](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $5.00
-- <a href='https://www.target.com/p/fairlife-lactose-free-2-chocolate-milk-52-fl-oz/-/A-17093199' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cc1a3964-af13-4fce-90ad-63945cc38138?wid=384&qlt=80' alt='$5.29 ( $0.10 /fluid ounce ) Fairlife Lactose-Free 2% Chocolate Milk - 52 fl oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.10 /fluid ounce ) Fairlife Lactose-Free 2% Chocolate Milk - 52 fl oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/fairlife-lactose-free-2-chocolate-milk-52-fl-oz/-/A-17093199)** — $5.29($0.10/fluid ounce)
 - <a href='https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e47d3e0f-8cf1-4dfb-ae2e-ed937da0970e?wid=384&qlt=80' alt='$2.79 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.04 /fluid ounce ) 1% Low Fat Milk - 0.5gal - Good & Gather™ Add to cart](https://www.target.com/p/1-low-fat-milk-0-5gal-good-38-gather-8482/-/A-13276127)** — $2.79($0.04/fluid ounce)
 - <a href='https://www.target.com/p/shredded-mozzarella-cheese-8oz-good-gather-8482/-/A-54337119' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9fea19c8-55df-4b3e-8884-4ea1e91aa1b3?wid=384&qlt=80' alt='$1.99 ( $0.25 /ounce ) Sale Shredded Mozzarella Cheese - 8oz - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.25 /ounce ) Sale Shredded Mozzarella Cheese - 8oz - Good & Gather™ Add to cart](https://www.target.com/p/shredded-mozzarella-cheese-8oz-good-gather-8482/-/A-54337119)** — $1.99($0.25/ounce)Sale
 - <a href='https://www.target.com/p/colby-jack-deli-sliced-cheese-8oz-12-slices-good-38-gather-8482/-/A-54340560' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_dc577c72-20ab-4cf2-a01f-1325efab5bd7?wid=384&qlt=80' alt='$1.79 ( $0.22 /ounce ) New lower price Colby Jack Deli Sliced Cheese - 8oz/12 slices - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.79 ( $0.22 /ounce ) New lower price Colby Jack Deli Sliced Cheese - 8oz/12 slices - Good & Gather™ Add to cart](https://www.target.com/p/colby-jack-deli-sliced-cheese-8oz-12-slices-good-38-gather-8482/-/A-54340560)** — $1.79($0.22/ounce)New lower price
@@ -41,14 +40,13 @@ _Last updated: 2025-12-26 16:41 UTC_
 - **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2025-12-27.csv](../data/daily-2025-12-27.csv)
 - [daily-2025-12-26.csv](../data/daily-2025-12-26.csv)
 - [daily-2025-12-25.csv](../data/daily-2025-12-25.csv)
 - [daily-2025-12-24.csv](../data/daily-2025-12-24.csv)
@@ -58,6 +56,5 @@ _Last updated: 2025-12-26 16:41 UTC_
 - [daily-2025-12-20.csv](../data/daily-2025-12-20.csv)
 - [daily-2025-12-19.csv](../data/daily-2025-12-19.csv)
 - [daily-2025-12-18.csv](../data/daily-2025-12-18.csv)
-- [daily-2025-12-17.csv](../data/daily-2025-12-17.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
