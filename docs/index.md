@@ -1,25 +1,27 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-01 16:44 UTC_
+_Last updated: 2026-01-02 16:43 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
-- <a href='https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/tn6cTEI0RB8cuVB0Yf-R1tpSUNmVK1K17dBnvLCVIRg/619x526.jpg' alt='New Year's Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[New Year's Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat ](https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html)**
+- <a href='https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/tn6cTEI0RB8cuVB0Yf-R1tpSUNmVK1K17dBnvLCVIRg/619x526.jpg' alt='Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ](https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html)**
 - **[Featured Services](https://order.cakes.com/pbc/safeway-1196-bky)**
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-1196-bky)**
 
 ### Safeway — 150 E El Camino Real (Sunnyvale)
-- <a href='https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/CNbZdqhSb1a_xZ_254GvvHjbEFVBp-khiI3-hNBtqfQ/619x526.jpg' alt='New Year's Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[New Year's Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat ](https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html)**
+- <a href='https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/CNbZdqhSb1a_xZ_254GvvHjbEFVBp-khiI3-hNBtqfQ/619x526.jpg' alt='Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ](https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html)**
 - **[Featured Services](https://order.cakes.com/pbc/safeway-2887-bky)**
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
 
 ### Whole Foods Market — Sunnyvale
 - <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
 - <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Deals and Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Deals and Sales](https://www.wholefoodsmarket.com/amazon/prime)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Ground Chicken Tray Pack*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Ground Chicken Tray Pack*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Organic Large Hass Avocados*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Organic Large Hass Avocados*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Blueberries, 1 pt*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Blueberries, 1 pt*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Honeycrisp Apples*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Honeycrisp Apples*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Bone-In Lamb Shoulder*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Bone-In Lamb Shoulder*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Organic Ground Turkey Tray Pack*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Organic Ground Turkey Tray Pack*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Kale, Swiss Chard and Collard Greens*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Kale, Swiss Chard and Collard Greens*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Beef Top Sirloin Steaks*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Beef Top Sirloin Steaks*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Chicken or Beef Sous Vide Meals*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Chicken or Beef Sous Vide Meals*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Broths and Bone Broths*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Broths and Bone Broths*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Broccoli*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Broccoli*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Sweet Potatoes*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sweet Potatoes*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
@@ -48,6 +50,7 @@ _Last updated: 2026-01-01 16:44 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-01-02.csv](../data/daily-2026-01-02.csv)
 - [daily-2026-01-01.csv](../data/daily-2026-01-01.csv)
 - [daily-2025-12-31.csv](../data/daily-2025-12-31.csv)
 - [daily-2025-12-30.csv](../data/daily-2025-12-30.csv)
@@ -57,6 +60,5 @@ _Last updated: 2026-01-01 16:44 UTC_
 - [daily-2025-12-26.csv](../data/daily-2025-12-26.csv)
 - [daily-2025-12-25.csv](../data/daily-2025-12-25.csv)
 - [daily-2025-12-24.csv](../data/daily-2025-12-24.csv)
-- [daily-2025-12-23.csv](../data/daily-2025-12-23.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
