@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-09 16:47 UTC_
+_Last updated: 2026-01-10 16:42 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -13,13 +13,13 @@ _Last updated: 2026-01-09 16:47 UTC_
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
 
 ### Whole Foods Market — Sunnyvale
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/storepages/seo/stores-og.png' alt='Sunnyvale Store | Whole Foods Market' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale Store | Whole Foods Market](https://www.wholefoodsmarket.com/stores/sunnyvale)**
+- （没有匹配到你的关键词）
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at Sunnyvale](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $5.00
 - <a href='https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_c3935e5f-5b66-4bf1-a38b-ad72121b9d4f?wid=384&qlt=80' alt='$2.99 ( $0.19 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.99 ( $0.19 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A](https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905)** — $2.99($0.19/fluid ounce)New lower price
@@ -42,6 +42,7 @@ _Last updated: 2026-01-09 16:47 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-01-10.csv](../data/daily-2026-01-10.csv)
 - [daily-2026-01-09.csv](../data/daily-2026-01-09.csv)
 - [daily-2026-01-08.csv](../data/daily-2026-01-08.csv)
 - [daily-2026-01-07.csv](../data/daily-2026-01-07.csv)
@@ -51,6 +52,5 @@ _Last updated: 2026-01-09 16:47 UTC_
 - [daily-2026-01-03.csv](../data/daily-2026-01-03.csv)
 - [daily-2026-01-02.csv](../data/daily-2026-01-02.csv)
 - [daily-2026-01-01.csv](../data/daily-2026-01-01.csv)
-- [daily-2025-12-31.csv](../data/daily-2025-12-31.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
