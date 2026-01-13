@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-12 16:46 UTC_
+_Last updated: 2026-01-13 16:51 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -13,15 +13,7 @@ _Last updated: 2026-01-12 16:46 UTC_
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
 
 ### Whole Foods Market — Sunnyvale
-- <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
-- <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Deals and Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Deals and Sales](https://www.wholefoodsmarket.com/amazon/prime)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Kale, Swiss Chard and Collard Greens*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Kale, Swiss Chard and Collard Greens*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Chicken or Beef Sous Vide Meals*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Chicken or Beef Sous Vide Meals*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Beef Breakfast Sausages*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Beef Breakfast Sausages*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Sumo Citrus*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sumo Citrus*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Blueberries, 1 pt*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Blueberries, 1 pt*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Grass-Fed Bone-In Lamb Shoulder Chops*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Grass-Fed Bone-In Lamb Shoulder Chops*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Hot Soup, 32 oz*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Hot Soup, 32 oz*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- （没有匹配到你的关键词）
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
@@ -41,7 +33,7 @@ _Last updated: 2026-01-12 16:46 UTC_
 - <a href='https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0b107beb-e9df-4bcc-a911-0923736a1d7a?wid=384&qlt=80' alt='$3.39 ( $0.42 /ounce ) Philadelphia Original Cream Cheese - 8oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.39 ( $0.42 /ounce ) Philadelphia Original Cream Cheese - 8oz Add to cart](https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523)** — $3.39($0.42/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -50,6 +42,7 @@ _Last updated: 2026-01-12 16:46 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-01-13.csv](../data/daily-2026-01-13.csv)
 - [daily-2026-01-12.csv](../data/daily-2026-01-12.csv)
 - [daily-2026-01-11.csv](../data/daily-2026-01-11.csv)
 - [daily-2026-01-10.csv](../data/daily-2026-01-10.csv)
@@ -59,6 +52,5 @@ _Last updated: 2026-01-12 16:46 UTC_
 - [daily-2026-01-06.csv](../data/daily-2026-01-06.csv)
 - [daily-2026-01-05.csv](../data/daily-2026-01-05.csv)
 - [daily-2026-01-04.csv](../data/daily-2026-01-04.csv)
-- [daily-2026-01-03.csv](../data/daily-2026-01-03.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
