@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-14 16:50 UTC_
+_Last updated: 2026-01-15 16:55 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -33,7 +33,7 @@ _Last updated: 2026-01-14 16:50 UTC_
 - <a href='https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0b107beb-e9df-4bcc-a911-0923736a1d7a?wid=384&qlt=80' alt='$3.39 ( $0.42 /ounce ) Philadelphia Original Cream Cheese - 8oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.39 ( $0.42 /ounce ) Philadelphia Original Cream Cheese - 8oz Add to cart](https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523)** — $3.39($0.42/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -42,6 +42,7 @@ _Last updated: 2026-01-14 16:50 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-01-15.csv](../data/daily-2026-01-15.csv)
 - [daily-2026-01-14.csv](../data/daily-2026-01-14.csv)
 - [daily-2026-01-13.csv](../data/daily-2026-01-13.csv)
 - [daily-2026-01-12.csv](../data/daily-2026-01-12.csv)
@@ -51,6 +52,5 @@ _Last updated: 2026-01-14 16:50 UTC_
 - [daily-2026-01-08.csv](../data/daily-2026-01-08.csv)
 - [daily-2026-01-07.csv](../data/daily-2026-01-07.csv)
 - [daily-2026-01-06.csv](../data/daily-2026-01-06.csv)
-- [daily-2026-01-05.csv](../data/daily-2026-01-05.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
