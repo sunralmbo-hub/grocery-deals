@@ -1,14 +1,14 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-15 16:55 UTC_
+_Last updated: 2026-01-16 16:48 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
-- <a href='https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/tn6cTEI0RB8cuVB0Yf-R1tpSUNmVK1K17dBnvLCVIRg/619x526.jpg' alt='Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ](https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html)**
+- <a href='https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/tn6cTEI0RB8cuVB0Yf-R1tpSUNmVK1K17dBnvLCVIRg/619x526.jpg' alt='Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ](https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html)**
 - **[Featured Services](https://order.cakes.com/pbc/safeway-1196-bky)**
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-1196-bky)**
 
 ### Safeway — 150 E El Camino Real (Sunnyvale)
-- <a href='https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/CNbZdqhSb1a_xZ_254GvvHjbEFVBp-khiI3-hNBtqfQ/619x526.jpg' alt='Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Game Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time Meat & ](https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html)**
+- <a href='https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/CNbZdqhSb1a_xZ_254GvvHjbEFVBp-khiI3-hNBtqfQ/619x526.jpg' alt='Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ](https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html)**
 - **[Featured Services](https://order.cakes.com/pbc/safeway-2887-bky)**
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
 
@@ -19,7 +19,7 @@ _Last updated: 2026-01-15 16:55 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Trending items available at Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at Sunnyvale](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle ](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.00
 - <a href='https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d67c857a-63f4-4a52-a26a-2f57d151e5d9?wid=384&qlt=80' alt='$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 Toddler Girls' Solid Leggings - Cat & Jack™ Black 12M: Cotton-Spandex Blend, Mid Rise, Ankle Length, Elastic Waist](https://www.target.com/p/toddler-girls-39-solid-leggings-cat-38-jack-8482-black-12m/-/A-50941412)** — $5.00
 - <a href='https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_c3935e5f-5b66-4bf1-a38b-ad72121b9d4f?wid=384&qlt=80' alt='$2.99 ( $0.19 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.99 ( $0.19 /fluid ounce ) New lower price Heavy Whipping Cream - 16 fl oz (1pt) - Good & Gather™ 4.7 out of 5 stars A](https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905)** — $2.99($0.19/fluid ounce)New lower price
@@ -33,7 +33,7 @@ _Last updated: 2026-01-15 16:55 UTC_
 - <a href='https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0b107beb-e9df-4bcc-a911-0923736a1d7a?wid=384&qlt=80' alt='$3.39 ( $0.42 /ounce ) Philadelphia Original Cream Cheese - 8oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.39 ( $0.42 /ounce ) Philadelphia Original Cream Cheese - 8oz Add to cart](https://www.target.com/p/philadelphia-original-cream-cheese-8oz/-/A-12958523)** — $3.39($0.42/ounce)
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -42,6 +42,7 @@ _Last updated: 2026-01-15 16:55 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-01-16.csv](../data/daily-2026-01-16.csv)
 - [daily-2026-01-15.csv](../data/daily-2026-01-15.csv)
 - [daily-2026-01-14.csv](../data/daily-2026-01-14.csv)
 - [daily-2026-01-13.csv](../data/daily-2026-01-13.csv)
@@ -51,6 +52,5 @@ _Last updated: 2026-01-15 16:55 UTC_
 - [daily-2026-01-09.csv](../data/daily-2026-01-09.csv)
 - [daily-2026-01-08.csv](../data/daily-2026-01-08.csv)
 - [daily-2026-01-07.csv](../data/daily-2026-01-07.csv)
-- [daily-2026-01-06.csv](../data/daily-2026-01-06.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
