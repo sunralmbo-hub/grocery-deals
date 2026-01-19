@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-18 16:42 UTC_
+_Last updated: 2026-01-19 16:48 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -13,13 +13,19 @@ _Last updated: 2026-01-18 16:42 UTC_
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
 
 ### Whole Foods Market — Sunnyvale
-- （没有匹配到你的关键词）
+- <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
+- <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Deals and Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Deals and Sales](https://www.wholefoodsmarket.com/amazon/prime)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Kale, Swiss Chard and Collard Greens*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Kale, Swiss Chard and Collard Greens*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Yogurts, Drinkables and Pouches*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Yogurts, Drinkables and Pouches*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Blueberries, 1 pt*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Blueberries, 1 pt*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Air-Chilled Organic Whole Chicken*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Air-Chilled Organic Whole Chicken*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Fresh Atlantic Salmon Fillets*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Fresh Atlantic Salmon Fillets*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_84d2b54f-078d-4ce7-bedc-11dd5ca0e4be?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $12.79
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_84d2b54f-078d-4ce7-bedc-11dd5ca0e4be?wid=384&qlt=80' alt='Trending items available at Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at Sunnyvale](https://www.target.com/sl/sunnyvale/2584#skip)** — $12.79
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_84d2b54f-078d-4ce7-bedc-11dd5ca0e4be?wid=384&qlt=80' alt='Skip to next section $12.79 L'Oreal Paris Telescopic Original Waterproof Mascara - 935 Carbon Black - 0.27 fl oz Add to ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $12.79 L'Oreal Paris Telescopic Original Waterproof Mascara - 935 Carbon Black - 0.27 fl oz Add to ](https://www.target.com/sl/sunnyvale/2584#skip)** — $12.79
 - <a href='https://www.target.com/p/l-39-oreal-paris-telescopic-original-waterproof-mascara-935-carbon-black-0-27-fl-oz/-/A-12387910' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_84d2b54f-078d-4ce7-bedc-11dd5ca0e4be?wid=384&qlt=80' alt='$12.79 L'Oreal Paris Telescopic Original Waterproof Mascara - 935 Carbon Black - 0.27 fl oz Add to cart $5.49 ( $0.11 /f' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$12.79 L'Oreal Paris Telescopic Original Waterproof Mascara - 935 Carbon Black - 0.27 fl oz Add to cart $5.49 ( $0.11 /f](https://www.target.com/p/l-39-oreal-paris-telescopic-original-waterproof-mascara-935-carbon-black-0-27-fl-oz/-/A-12387910)** — $12.79
 - <a href='https://www.target.com/p/stok-black-unsweetened-cold-brew-coffee-48-fl-oz/-/A-50694768' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_1ef24756-2e22-4628-83a4-85cc989b7a29?wid=384&qlt=80' alt='$5.49 ( $0.11 /fluid ounce ) Sale SToK Black Unsweetened Cold Brew Coffee - 48 fl oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.49 ( $0.11 /fluid ounce ) Sale SToK Black Unsweetened Cold Brew Coffee - 48 fl oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/stok-black-unsweetened-cold-brew-coffee-48-fl-oz/-/A-50694768)** — $5.49($0.11/fluid ounce)Sale
@@ -40,6 +46,7 @@ _Last updated: 2026-01-18 16:42 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-01-19.csv](../data/daily-2026-01-19.csv)
 - [daily-2026-01-18.csv](../data/daily-2026-01-18.csv)
 - [daily-2026-01-17.csv](../data/daily-2026-01-17.csv)
 - [daily-2026-01-16.csv](../data/daily-2026-01-16.csv)
@@ -49,6 +56,5 @@ _Last updated: 2026-01-18 16:42 UTC_
 - [daily-2026-01-12.csv](../data/daily-2026-01-12.csv)
 - [daily-2026-01-11.csv](../data/daily-2026-01-11.csv)
 - [daily-2026-01-10.csv](../data/daily-2026-01-10.csv)
-- [daily-2026-01-09.csv](../data/daily-2026-01-09.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
