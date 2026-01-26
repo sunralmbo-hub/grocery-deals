@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-25 16:43 UTC_
+_Last updated: 2026-01-26 16:54 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -13,7 +13,13 @@ _Last updated: 2026-01-25 16:43 UTC_
 - **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
 
 ### Whole Foods Market — Sunnyvale
-- （没有匹配到你的关键词）
+- <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
+- <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Deals and Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Deals and Sales](https://www.wholefoodsmarket.com/amazon/prime)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='Kale, Swiss Chard and Collard Greens*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Kale, Swiss Chard and Collard Greens*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Air-Chilled Boneless Skinless Chicken Breast*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Air-Chilled Boneless Skinless Chicken Breast*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='All Packaged Smoked Salmon*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[All Packaged Smoked Salmon*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Honeycrisp Apples*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Honeycrisp Apples*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Alaska Sockeye Salmon Fillets*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Alaska Sockeye Salmon Fillets*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/shrimp.jpg' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
@@ -25,12 +31,15 @@ _Last updated: 2026-01-25 16:43 UTC_
 - **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2026-01-26.csv](../data/daily-2026-01-26.csv)
 - [daily-2026-01-25.csv](../data/daily-2026-01-25.csv)
 - [daily-2026-01-24.csv](../data/daily-2026-01-24.csv)
 - [daily-2026-01-23.csv](../data/daily-2026-01-23.csv)
@@ -40,6 +49,5 @@ _Last updated: 2026-01-25 16:43 UTC_
 - [daily-2026-01-19.csv](../data/daily-2026-01-19.csv)
 - [daily-2026-01-18.csv](../data/daily-2026-01-18.csv)
 - [daily-2026-01-17.csv](../data/daily-2026-01-17.csv)
-- [daily-2026-01-16.csv](../data/daily-2026-01-16.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
