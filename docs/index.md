@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-01-29 17:00 UTC_
+_Last updated: 2026-01-30 17:00 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -29,22 +29,25 @@ _Last updated: 2026-01-29 17:00 UTC_
 ### Target — Sunnyvale (Store 2584)
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9c23be39-fc7c-4f1d-8bfb-601075e62405?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $4.59($0.29/ounce)
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9c23be39-fc7c-4f1d-8bfb-601075e62405?wid=384&qlt=80' alt='Skip to next section $4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $](https://www.target.com/sl/sunnyvale/2584#skip)** — $4.59($0.29/ounce)
-- <a href='https://www.target.com/p/starburst-all-pink-sharing-size-chewy-candy-15-6oz/-/A-54571201' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9c23be39-fc7c-4f1d-8bfb-601075e62405?wid=384&qlt=80' alt='$4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $5.00 14oz Stoneware L' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $5.00 14oz Stoneware L](https://www.target.com/p/starburst-all-pink-sharing-size-chewy-candy-15-6oz/-/A-54571201)** — $4.59($0.29/ounce)
+- <a href='https://www.target.com/p/starburst-all-pink-sharing-size-chewy-candy-15-6oz/-/A-54571201' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9c23be39-fc7c-4f1d-8bfb-601075e62405?wid=384&qlt=80' alt='$4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $5.99 Buy 1, get 1 50%' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $5.99 Buy 1, get 1 50%](https://www.target.com/p/starburst-all-pink-sharing-size-chewy-candy-15-6oz/-/A-54571201)** — $4.59($0.29/ounce)
 - <a href='https://www.target.com/p/women-39-s-super-flex-ultra-high-rise-bonded-leggings-all-in-motion-8482-black-xs/-/A-94886473' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_df117142-c3cc-4816-a73a-87581686364d?wid=384&qlt=80' alt='$35.00 Women's Super Flex Ultra High Rise Bonded Leggings - All In Motion™ Black XS Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$35.00 Women's Super Flex Ultra High Rise Bonded Leggings - All In Motion™ Black XS Add to cart](https://www.target.com/p/women-39-s-super-flex-ultra-high-rise-bonded-leggings-all-in-motion-8482-black-xs/-/A-94886473)** — $35.00
 - <a href='https://www.target.com/p/colby-jack-cheese-snack-bars-9oz-12ct-good-38-gather-8482/-/A-54349793' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_195afd82-480c-44af-a41c-f4329e680d00?wid=384&qlt=80' alt='$2.99 ( $0.33 /ounce ) Colby Jack Cheese Snack Bars - 9oz/12ct - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.99 ( $0.33 /ounce ) Colby Jack Cheese Snack Bars - 9oz/12ct - Good & Gather™ Add to cart](https://www.target.com/p/colby-jack-cheese-snack-bars-9oz-12ct-good-38-gather-8482/-/A-54349793)** — $2.99($0.33/ounce)
 - <a href='https://www.target.com/p/women-39-s-super-flex-high-rise-7-8-pocketed-leggings-all-in-motion-8482-aer53-black-xs/-/A-94799378' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_3355351c-b90f-49c7-bc98-58b959fe8b9b?wid=384&qlt=80' alt='$35.00 Women's Super Flex High-Rise 7/8 Pocketed Leggings - All In Motion™ AER53 Black XS Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$35.00 Women's Super Flex High-Rise 7/8 Pocketed Leggings - All In Motion™ AER53 Black XS Add to cart](https://www.target.com/p/women-39-s-super-flex-high-rise-7-8-pocketed-leggings-all-in-motion-8482-aer53-black-xs/-/A-94799378)** — $35.00
 - <a href='https://www.target.com/p/whipped-plain-cream-cheese-spread-8oz-good-38-gather-8482/-/A-79694680' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_565700a5-3422-4278-ba4e-fc7803e5eee3?wid=384&qlt=80' alt='$2.39 ( $0.30 /ounce ) Whipped Plain Cream Cheese Spread - 8oz - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.39 ( $0.30 /ounce ) Whipped Plain Cream Cheese Spread - 8oz - Good & Gather™ Add to cart](https://www.target.com/p/whipped-plain-cream-cheese-spread-8oz-good-38-gather-8482/-/A-79694680)** — $2.39($0.30/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2026-01-30.csv](../data/daily-2026-01-30.csv)
 - [daily-2026-01-29.csv](../data/daily-2026-01-29.csv)
 - [daily-2026-01-28.csv](../data/daily-2026-01-28.csv)
 - [daily-2026-01-27.csv](../data/daily-2026-01-27.csv)
@@ -54,6 +57,5 @@ _Last updated: 2026-01-29 17:00 UTC_
 - [daily-2026-01-23.csv](../data/daily-2026-01-23.csv)
 - [daily-2026-01-22.csv](../data/daily-2026-01-22.csv)
 - [daily-2026-01-21.csv](../data/daily-2026-01-21.csv)
-- [daily-2026-01-20.csv](../data/daily-2026-01-20.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
