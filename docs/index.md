@@ -1,16 +1,16 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-02-01 16:49 UTC_
+_Last updated: 2026-02-02 17:03 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
 - <a href='https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/tn6cTEI0RB8cuVB0Yf-R1tpSUNmVK1K17dBnvLCVIRg/619x526.jpg' alt='Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ](https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html)**
-- **[Featured Services](https://order.cakes.com/pbc/safeway-1196-bky)**
-- **[Custom Cakes](https://order.cakes.com/pbc/safeway-1196-bky)**
+- **[Featured Services](https://www.safeway.com/foru-guest.html)**
+- **[Top members save 35% weekly*](https://www.safeway.com/foru-guest.html)**
 
 ### Safeway — 150 E El Camino Real (Sunnyvale)
 - <a href='https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/CNbZdqhSb1a_xZ_254GvvHjbEFVBp-khiI3-hNBtqfQ/619x526.jpg' alt='Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Valentine's Day Pharmacy Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopping Limited Time ](https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html)**
-- **[Featured Services](https://order.cakes.com/pbc/safeway-2887-bky)**
-- **[Custom Cakes](https://order.cakes.com/pbc/safeway-2887-bky)**
+- **[Featured Services](https://www.safeway.com/foru-guest.html)**
+- **[Top members save 35% weekly*](https://www.safeway.com/foru-guest.html)**
 
 ### Whole Foods Market — Sunnyvale
 - <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
@@ -32,6 +32,7 @@ _Last updated: 2026-02-01 16:49 UTC_
 - <a href='https://www.target.com/p/starburst-all-pink-sharing-size-chewy-candy-15-6oz/-/A-54571201' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9c23be39-fc7c-4f1d-8bfb-601075e62405?wid=384&qlt=80' alt='$4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $5.99 Buy 1, get 1 50%' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.59 ( $0.29 /ounce ) Starburst All Pink Candy Fruit Flavored Chewy Candies - 15.6oz Add to cart $5.99 Buy 1, get 1 50%](https://www.target.com/p/starburst-all-pink-sharing-size-chewy-candy-15-6oz/-/A-54571201)** — $4.59($0.29/ounce)
 - <a href='https://www.target.com/p/colby-jack-cheese-snack-bars-9oz-12ct-good-38-gather-8482/-/A-54349793' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_195afd82-480c-44af-a41c-f4329e680d00?wid=384&qlt=80' alt='$2.99 ( $0.33 /ounce ) Colby Jack Cheese Snack Bars - 9oz/12ct - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.99 ( $0.33 /ounce ) Colby Jack Cheese Snack Bars - 9oz/12ct - Good & Gather™ Add to cart](https://www.target.com/p/colby-jack-cheese-snack-bars-9oz-12ct-good-38-gather-8482/-/A-54349793)** — $2.99($0.33/ounce)
 - <a href='https://www.target.com/p/sensible-portions-valentine-39-s-garden-veggie-mini-hearts-6oz-12ct/-/A-89182050' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d170e438-87d2-49ca-b62c-4139a7120564?wid=384&qlt=80' alt='$8.39 ( $1.40 /ounce ) Sensible Portions Valentine's Garden Veggie Mini Hearts - 6oz/12ct 4.1 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$8.39 ( $1.40 /ounce ) Sensible Portions Valentine's Garden Veggie Mini Hearts - 6oz/12ct 4.1 out of 5 stars Add to cart](https://www.target.com/p/sensible-portions-valentine-39-s-garden-veggie-mini-hearts-6oz-12ct/-/A-89182050)** — $8.39($1.40/ounce)
+- <a href='https://www.target.com/p/whipped-plain-cream-cheese-spread-8oz-good-38-gather-8482/-/A-79694680' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_565700a5-3422-4278-ba4e-fc7803e5eee3?wid=384&qlt=80' alt='$2.39 ( $0.30 /ounce ) Whipped Plain Cream Cheese Spread - 8oz - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.39 ( $0.30 /ounce ) Whipped Plain Cream Cheese Spread - 8oz - Good & Gather™ Add to cart](https://www.target.com/p/whipped-plain-cream-cheese-spread-8oz-good-38-gather-8482/-/A-79694680)** — $2.39($0.30/ounce)
 
 ### 99 Ranch Market — (select store)
 - **[ERROR](https://www.99ranch.com/)**
@@ -43,6 +44,7 @@ _Last updated: 2026-02-01 16:49 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-02-02.csv](../data/daily-2026-02-02.csv)
 - [daily-2026-02-01.csv](../data/daily-2026-02-01.csv)
 - [daily-2026-01-31.csv](../data/daily-2026-01-31.csv)
 - [daily-2026-01-30.csv](../data/daily-2026-01-30.csv)
@@ -52,6 +54,5 @@ _Last updated: 2026-02-01 16:49 UTC_
 - [daily-2026-01-26.csv](../data/daily-2026-01-26.csv)
 - [daily-2026-01-25.csv](../data/daily-2026-01-25.csv)
 - [daily-2026-01-24.csv](../data/daily-2026-01-24.csv)
-- [daily-2026-01-23.csv](../data/daily-2026-01-23.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
