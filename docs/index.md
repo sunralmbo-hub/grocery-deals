@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-02-06 17:05 UTC_
+_Last updated: 2026-02-07 16:50 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -33,7 +33,7 @@ _Last updated: 2026-02-06 17:05 UTC_
 - <a href='https://www.target.com/p/utz-valentine-39-s-mini-cheese-balls-7-5oz-30ct/-/A-89197770' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_f77357a0-4cdd-4a0c-b581-bb3bf975f025?wid=384&qlt=80' alt='$4.99 ( $0.67 /ounce ) Sale Utz Valentine's Mini Cheese Balls - 7.5oz/30ct 3.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.99 ( $0.67 /ounce ) Sale Utz Valentine's Mini Cheese Balls - 7.5oz/30ct 3.8 out of 5 stars Add to cart](https://www.target.com/p/utz-valentine-39-s-mini-cheese-balls-7-5oz-30ct/-/A-89197770)** — $4.99($0.67/ounce)Sale
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -42,6 +42,7 @@ _Last updated: 2026-02-06 17:05 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-02-07.csv](../data/daily-2026-02-07.csv)
 - [daily-2026-02-06.csv](../data/daily-2026-02-06.csv)
 - [daily-2026-02-05.csv](../data/daily-2026-02-05.csv)
 - [daily-2026-02-04.csv](../data/daily-2026-02-04.csv)
@@ -51,6 +52,5 @@ _Last updated: 2026-02-06 17:05 UTC_
 - [daily-2026-01-31.csv](../data/daily-2026-01-31.csv)
 - [daily-2026-01-30.csv](../data/daily-2026-01-30.csv)
 - [daily-2026-01-29.csv](../data/daily-2026-01-29.csv)
-- [daily-2026-01-28.csv](../data/daily-2026-01-28.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
