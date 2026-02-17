@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-02-16 17:04 UTC_
+_Last updated: 2026-02-17 17:18 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -26,9 +26,9 @@ _Last updated: 2026-02-16 17:04 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/mandarin-orange-chicken.png' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_445735c2-77ad-46de-a2f3-422f852505b7?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.55Clearance
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_445735c2-77ad-46de-a2f3-422f852505b7?wid=384&qlt=80' alt='Skip to next section $2.55 Clearance 2ct Valentine's Day Large Heart Toss Cub Bag - Spritz™ 4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $2.55 Clearance 2ct Valentine's Day Large Heart Toss Cub Bag - Spritz™ 4 out of 5 stars Add to cart](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.55Clearance
-- <a href='https://www.target.com/p/2ct-valentine-39-s-day-large-heart-toss-cub-bag-spritz-8482/-/A-94616926' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_445735c2-77ad-46de-a2f3-422f852505b7?wid=384&qlt=80' alt='$2.55 Clearance 2ct Valentine's Day Large Heart Toss Cub Bag - Spritz™ 4 out of 5 stars Add to cart $4.59 ( $0.29 /ounce' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.55 Clearance 2ct Valentine's Day Large Heart Toss Cub Bag - Spritz™ 4 out of 5 stars Add to cart $4.59 ( $0.29 /ounce](https://www.target.com/p/2ct-valentine-39-s-day-large-heart-toss-cub-bag-spritz-8482/-/A-94616926)** — $2.55Clearance
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_15a7e4ca-e52f-4ae8-ac6d-e325216a2609?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.00
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_15a7e4ca-e52f-4ae8-ac6d-e325216a2609?wid=384&qlt=80' alt='Skip to next section $3.00 Modular Storage Medium Clear - Brightroom™ Add to cart $35.00 Women's Corset Midi Dress - A N' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.00 Modular Storage Medium Clear - Brightroom™ Add to cart $35.00 Women's Corset Midi Dress - A N](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.00
+- <a href='https://www.target.com/p/modular-storage-medium-clear-brightroom-8482/-/A-94685900' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_15a7e4ca-e52f-4ae8-ac6d-e325216a2609?wid=384&qlt=80' alt='$3.00 Modular Storage Medium Clear - Brightroom™ Add to cart $35.00 Women's Corset Midi Dress - A New Day™ Blue Floral X' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.00 Modular Storage Medium Clear - Brightroom™ Add to cart $35.00 Women's Corset Midi Dress - A New Day™ Blue Floral X](https://www.target.com/p/modular-storage-medium-clear-brightroom-8482/-/A-94685900)** — $3.00
 - <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
 - <a href='https://www.target.com/p/cadbury-mini-eggs-milk-chocolate-easter-candy-9oz/-/A-84109200' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0762f7ce-a285-4f9e-ab64-2648c87706ff?wid=384&qlt=80' alt='$5.29 ( $0.59 /ounce ) Cadbury Mini Eggs Milk Chocolate Easter Candy Basket Stuffers - 9oz 4.1 out of 5 stars Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.59 /ounce ) Cadbury Mini Eggs Milk Chocolate Easter Candy Basket Stuffers - 9oz 4.1 out of 5 stars Add to car](https://www.target.com/p/cadbury-mini-eggs-milk-chocolate-easter-candy-9oz/-/A-84109200)** — $5.29($0.59/ounce)
 
@@ -36,12 +36,15 @@ _Last updated: 2026-02-16 17:04 UTC_
 - **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2026-02-17.csv](../data/daily-2026-02-17.csv)
 - [daily-2026-02-16.csv](../data/daily-2026-02-16.csv)
 - [daily-2026-02-15.csv](../data/daily-2026-02-15.csv)
 - [daily-2026-02-14.csv](../data/daily-2026-02-14.csv)
@@ -51,6 +54,5 @@ _Last updated: 2026-02-16 17:04 UTC_
 - [daily-2026-02-10.csv](../data/daily-2026-02-10.csv)
 - [daily-2026-02-09.csv](../data/daily-2026-02-09.csv)
 - [daily-2026-02-08.csv](../data/daily-2026-02-08.csv)
-- [daily-2026-02-07.csv](../data/daily-2026-02-07.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
