@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-02-18 17:30 UTC_
+_Last updated: 2026-02-19 17:14 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -35,12 +35,15 @@ _Last updated: 2026-02-18 17:30 UTC_
 - **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2026-02-19.csv](../data/daily-2026-02-19.csv)
 - [daily-2026-02-18.csv](../data/daily-2026-02-18.csv)
 - [daily-2026-02-17.csv](../data/daily-2026-02-17.csv)
 - [daily-2026-02-16.csv](../data/daily-2026-02-16.csv)
@@ -50,6 +53,5 @@ _Last updated: 2026-02-18 17:30 UTC_
 - [daily-2026-02-12.csv](../data/daily-2026-02-12.csv)
 - [daily-2026-02-11.csv](../data/daily-2026-02-11.csv)
 - [daily-2026-02-10.csv](../data/daily-2026-02-10.csv)
-- [daily-2026-02-09.csv](../data/daily-2026-02-09.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
