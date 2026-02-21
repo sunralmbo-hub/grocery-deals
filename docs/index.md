@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-02-20 16:59 UTC_
+_Last updated: 2026-02-21 16:49 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -24,25 +24,25 @@ _Last updated: 2026-02-20 16:59 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/mandarin-orange-chicken.png' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_74b671f6-acda-484a-9b3a-47a52b1d4da5?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $4.00
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_74b671f6-acda-484a-9b3a-47a52b1d4da5?wid=384&qlt=80' alt='Skip to next section $4.00 Modular Storage Large Clear - Brightroom™ Add to cart $3.00 Modular Storage Medium Clear - Br' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $4.00 Modular Storage Large Clear - Brightroom™ Add to cart $3.00 Modular Storage Medium Clear - Br](https://www.target.com/sl/sunnyvale/2584#skip)** — $4.00
-- <a href='https://www.target.com/p/modular-storage-large-clear-brightroom-8482/-/A-94685896' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_74b671f6-acda-484a-9b3a-47a52b1d4da5?wid=384&qlt=80' alt='$4.00 Modular Storage Large Clear - Brightroom™ Add to cart $3.00 Modular Storage Medium Clear - Brightroom™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.00 Modular Storage Large Clear - Brightroom™ Add to cart $3.00 Modular Storage Medium Clear - Brightroom™ Add to cart](https://www.target.com/p/modular-storage-large-clear-brightroom-8482/-/A-94685896)** — $4.00
-- <a href='https://www.target.com/p/good-culture-2-low-fat-classic-cottage-cheese-16oz/-/A-52007667' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_20b3ef0f-b5a9-437b-8b45-eb76b4b1518a?wid=384&qlt=80' alt='$4.99 ( $0.31 /ounce ) Good Culture 2% Milkfat Simply Cottage Cheese - 16oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.99 ( $0.31 /ounce ) Good Culture 2% Milkfat Simply Cottage Cheese - 16oz Add to cart](https://www.target.com/p/good-culture-2-low-fat-classic-cottage-cheese-16oz/-/A-52007667)** — $4.99($0.31/ounce)
-- <a href='https://www.target.com/p/shredded-mozzarella-cheese-8oz-good-gather-8482/-/A-54337119' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9fea19c8-55df-4b3e-8884-4ea1e91aa1b3?wid=384&qlt=80' alt='$1.99 ( $0.25 /ounce ) Sale Shredded Mozzarella Cheese - 8oz - Good & Gather™ Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.25 /ounce ) Sale Shredded Mozzarella Cheese - 8oz - Good & Gather™ Add to cart](https://www.target.com/p/shredded-mozzarella-cheese-8oz-good-gather-8482/-/A-54337119)** — $1.99($0.25/ounce)Sale
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9252b78d-78c1-40b1-a02c-22f070d0d4bc?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $12.00
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9252b78d-78c1-40b1-a02c-22f070d0d4bc?wid=384&qlt=80' alt='Skip to next section $12.00 Women's Western Lace Trim Pointelle Tank Top - Universal Thread™ Blue XS Add to cart $9.79 K' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $12.00 Women's Western Lace Trim Pointelle Tank Top - Universal Thread™ Blue XS Add to cart $9.79 K](https://www.target.com/sl/sunnyvale/2584#skip)** — $12.00
+- <a href='https://www.target.com/p/women-39-s-western-lace-trim-pointelle-tank-top-universal-thread-8482-blue-xs/-/A-94876317' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9252b78d-78c1-40b1-a02c-22f070d0d4bc?wid=384&qlt=80' alt='$12.00 Women's Western Lace Trim Pointelle Tank Top - Universal Thread™ Blue XS Add to cart $9.79 KISS Nails CORE Press-' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$12.00 Women's Western Lace Trim Pointelle Tank Top - Universal Thread™ Blue XS Add to cart $9.79 KISS Nails CORE Press-](https://www.target.com/p/women-39-s-western-lace-trim-pointelle-tank-top-universal-thread-8482-blue-xs/-/A-94876317)** — $12.00
 - <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/good-culture-2-low-fat-classic-cottage-cheese-16oz/-/A-52007667' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_20b3ef0f-b5a9-437b-8b45-eb76b4b1518a?wid=384&qlt=80' alt='$4.99 ( $0.31 /ounce ) Good Culture 2% Milkfat Simply Cottage Cheese - 16oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.99 ( $0.31 /ounce ) Good Culture 2% Milkfat Simply Cottage Cheese - 16oz Add to cart](https://www.target.com/p/good-culture-2-low-fat-classic-cottage-cheese-16oz/-/A-52007667)** — $4.99($0.31/ounce)
+- <a href='https://www.target.com/p/cadbury-mini-eggs-milk-chocolate-easter-candy-9oz/-/A-84109200' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0762f7ce-a285-4f9e-ab64-2648c87706ff?wid=384&qlt=80' alt='$5.29 ( $0.59 /ounce ) Cadbury Mini Eggs Milk Chocolate Easter Candy Basket Stuffers - 9oz 4.1 out of 5 stars Add to car' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.59 /ounce ) Cadbury Mini Eggs Milk Chocolate Easter Candy Basket Stuffers - 9oz 4.1 out of 5 stars Add to car](https://www.target.com/p/cadbury-mini-eggs-milk-chocolate-easter-candy-9oz/-/A-84109200)** — $5.29($0.59/ounce)
+- <a href='https://www.target.com/p/cadbury-cr-232-me-egg-milk-chocolate-easter-candy-4ct-4-8oz/-/A-77676463' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_5050002a-cd0c-4933-96a6-5b11582e2e2e?wid=384&qlt=80' alt='$4.79 ( $1.00 /ounce ) Cadbury Crème Egg Milk Chocolate Easter Candy Basket Stuffers - 4.8oz/4ct 4.5 out of 5 stars Add ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.79 ( $1.00 /ounce ) Cadbury Crème Egg Milk Chocolate Easter Candy Basket Stuffers - 4.8oz/4ct 4.5 out of 5 stars Add ](https://www.target.com/p/cadbury-cr-232-me-egg-milk-chocolate-easter-candy-4ct-4-8oz/-/A-77676463)** — $4.79($1.00/ounce)
 
 ### 99 Ranch Market — (select store)
 - **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-02-21.csv](../data/daily-2026-02-21.csv)
 - [daily-2026-02-20.csv](../data/daily-2026-02-20.csv)
 - [daily-2026-02-19.csv](../data/daily-2026-02-19.csv)
 - [daily-2026-02-18.csv](../data/daily-2026-02-18.csv)
@@ -52,6 +52,5 @@ _Last updated: 2026-02-20 16:59 UTC_
 - [daily-2026-02-14.csv](../data/daily-2026-02-14.csv)
 - [daily-2026-02-13.csv](../data/daily-2026-02-13.csv)
 - [daily-2026-02-12.csv](../data/daily-2026-02-12.csv)
-- [daily-2026-02-11.csv](../data/daily-2026-02-11.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
