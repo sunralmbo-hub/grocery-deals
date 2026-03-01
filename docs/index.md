@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-02-28 16:43 UTC_
+_Last updated: 2026-03-01 16:45 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -26,22 +26,25 @@ _Last updated: 2026-02-28 16:43 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/mandarin-orange-chicken.png' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4b37151-c544-4491-97c0-8d838b9e1ea7?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.59Buy 5 for $12 select energy drinks - 12 fl oz
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4b37151-c544-4491-97c0-8d838b9e1ea7?wid=384&qlt=80' alt='Skip to next section $2.59 Buy 5 for $12 select energy drinks - 12 fl oz Alani Nu Lime Slush Energy Drink - 12 fl oz Can' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $2.59 Buy 5 for $12 select energy drinks - 12 fl oz Alani Nu Lime Slush Energy Drink - 12 fl oz Can](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.59Buy 5 for $12 select energy drinks - 12 fl oz
-- <a href='https://www.target.com/p/alani-nu-lime-slush-energy-drink-12-fl-oz-can/-/A-95062908' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4b37151-c544-4491-97c0-8d838b9e1ea7?wid=384&qlt=80' alt='$2.59 Buy 5 for $12 select energy drinks - 12 fl oz Alani Nu Lime Slush Energy Drink - 12 fl oz Can 4.4 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.59 Buy 5 for $12 select energy drinks - 12 fl oz Alani Nu Lime Slush Energy Drink - 12 fl oz Can 4.4 out of 5 stars A](https://www.target.com/p/alani-nu-lime-slush-energy-drink-12-fl-oz-can/-/A-95062908)** — $2.59Buy 5 for $12 select energy drinks - 12 fl oz
-- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks - 12 fl oz Alani strawberry Sunrise Energy Drink - 12 fl' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks - 12 fl oz Alani strawberry Sunrise Energy Drink - 12 fl](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks - 12 fl oz
-- <a href='https://www.target.com/p/reese-39-s-pieces-peanut-butter-easter-candy-gift-bag-2-2oz/-/A-81306596' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cdf2a05d-2ea2-4ec6-b93c-5013655f75da?wid=384&qlt=80' alt='$1.99 ( $0.90 /ounce ) Reese's Pieces Peanut Butter Easter Candy Gift Bag - 2.2oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.90 /ounce ) Reese's Pieces Peanut Butter Easter Candy Gift Bag - 2.2oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/reese-39-s-pieces-peanut-butter-easter-candy-gift-bag-2-2oz/-/A-81306596)** — $1.99($0.90/ounce)
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4b37151-c544-4491-97c0-8d838b9e1ea7?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.59Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4b37151-c544-4491-97c0-8d838b9e1ea7?wid=384&qlt=80' alt='Skip to next section $2.59 Buy 5 for $12 select energy drinks Alani Nu Lime Slush Energy Drink - 12 fl oz Can 4.4 out of' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $2.59 Buy 5 for $12 select energy drinks Alani Nu Lime Slush Energy Drink - 12 fl oz Can 4.4 out of](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.59Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/alani-nu-lime-slush-energy-drink-12-fl-oz-can/-/A-95062908' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4b37151-c544-4491-97c0-8d838b9e1ea7?wid=384&qlt=80' alt='$2.59 Buy 5 for $12 select energy drinks Alani Nu Lime Slush Energy Drink - 12 fl oz Can 4.4 out of 5 stars Add to cart ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.59 Buy 5 for $12 select energy drinks Alani Nu Lime Slush Energy Drink - 12 fl oz Can 4.4 out of 5 stars Add to cart ](https://www.target.com/p/alani-nu-lime-slush-energy-drink-12-fl-oz-can/-/A-95062908)** — $2.59Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/hershey-39-s-butterbeer-kisses-easter-candy-with-harry-potter-foils-9oz/-/A-93028327' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_32bdbf04-8b27-48fb-ad72-08b023344e7e?wid=384&qlt=80' alt='$5.29 ( $0.59 /ounce ) Buy 1, get 1 50% off select candy HERSHEY'S Butterbeer Kisses Easter Candy with Harry Potter Foil' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.59 /ounce ) Buy 1, get 1 50% off select candy HERSHEY'S Butterbeer Kisses Easter Candy with Harry Potter Foil](https://www.target.com/p/hershey-39-s-butterbeer-kisses-easter-candy-with-harry-potter-foils-9oz/-/A-93028327)** — $5.29($0.59/ounce)Buy 1, get 1 50% off select candy
 
 ### 99 Ranch Market — (select store)
 - **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2026-03-01.csv](../data/daily-2026-03-01.csv)
 - [daily-2026-02-28.csv](../data/daily-2026-02-28.csv)
 - [daily-2026-02-27.csv](../data/daily-2026-02-27.csv)
 - [daily-2026-02-26.csv](../data/daily-2026-02-26.csv)
@@ -51,6 +54,5 @@ _Last updated: 2026-02-28 16:43 UTC_
 - [daily-2026-02-22.csv](../data/daily-2026-02-22.csv)
 - [daily-2026-02-21.csv](../data/daily-2026-02-21.csv)
 - [daily-2026-02-20.csv](../data/daily-2026-02-20.csv)
-- [daily-2026-02-19.csv](../data/daily-2026-02-19.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
