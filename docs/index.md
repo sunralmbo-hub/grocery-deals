@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-03-13 16:59 UTC_
+_Last updated: 2026-03-14 16:50 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -29,16 +29,14 @@ _Last updated: 2026-03-13 16:59 UTC_
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_dfb695bd-800e-4b9d-8a04-b3132111ca31?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $6.29($1.57/ounce)Buy 2 for $8 select General Mills cereal
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_dfb695bd-800e-4b9d-8a04-b3132111ca31?wid=384&qlt=80' alt='Skip to next section $6.29 ( $1.57 /ounce ) Buy 2 for $8 select General Mills cereal Lucky Charms Marshmallow Pouch - 4o' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $6.29 ( $1.57 /ounce ) Buy 2 for $8 select General Mills cereal Lucky Charms Marshmallow Pouch - 4o](https://www.target.com/sl/sunnyvale/2584#skip)** — $6.29($1.57/ounce)Buy 2 for $8 select General Mills cereal
 - <a href='https://www.target.com/p/lucky-charms-marshmallow-pouch-4oz/-/A-85777610' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_dfb695bd-800e-4b9d-8a04-b3132111ca31?wid=384&qlt=80' alt='$6.29 ( $1.57 /ounce ) Buy 2 for $8 select General Mills cereal Lucky Charms Marshmallow Pouch - 4oz 4.6 out of 5 stars ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$6.29 ( $1.57 /ounce ) Buy 2 for $8 select General Mills cereal Lucky Charms Marshmallow Pouch - 4oz 4.6 out of 5 stars ](https://www.target.com/p/lucky-charms-marshmallow-pouch-4oz/-/A-85777610)** — $6.29($1.57/ounce)Buy 2 for $8 select General Mills cereal
+- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
 - <a href='https://www.target.com/p/utz-mini-baked-cheddar-cheese-balls-1-75oz/-/A-89197851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_61215bc0-2649-4057-8230-a4a4e9a45732?wid=384&qlt=80' alt='$1.00 ( $0.57 /ounce ) Utz Easter Mini Baked Cheddar Cheese Balls - 1.75oz 4.6 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.00 ( $0.57 /ounce ) Utz Easter Mini Baked Cheddar Cheese Balls - 1.75oz 4.6 out of 5 stars Add to cart](https://www.target.com/p/utz-mini-baked-cheddar-cheese-balls-1-75oz/-/A-89197851)** — $1.00($0.57/ounce)
-- <a href='https://www.target.com/p/lindt-easter-gold-bunny-milk-chocolate-candy-3-5oz/-/A-77677951' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9f2babe0-099e-4d07-b413-38528adfa0e3?wid=384&qlt=80' alt='$5.99 ( $1.71 /ounce ) Buy 1, get 1 25% off select Lindt chocolate candy Lindt Easter Gold Bunny Milk Chocolate Candy - ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.99 ( $1.71 /ounce ) Buy 1, get 1 25% off select Lindt chocolate candy Lindt Easter Gold Bunny Milk Chocolate Candy - ](https://www.target.com/p/lindt-easter-gold-bunny-milk-chocolate-candy-3-5oz/-/A-77677951)** — $5.99($1.71/ounce)Buy 1, get 1 25% off select Lindt chocolate candy
-- <a href='https://www.target.com/p/spring-easter-milk-chocolate-bunny-2oz-favorite-day-8482/-/A-89094124' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_75eb7a47-c20a-4bca-b0e4-feb4ccad9992?wid=384&qlt=80' alt='$1.00 ( $0.50 /ounce ) Spring Easter Milk Chocolate Bunny Candy - 2oz - Favorite Day™ 3.9 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.00 ( $0.50 /ounce ) Spring Easter Milk Chocolate Bunny Candy - 2oz - Favorite Day™ 3.9 out of 5 stars Add to cart](https://www.target.com/p/spring-easter-milk-chocolate-bunny-2oz-favorite-day-8482/-/A-89094124)** — $1.00($0.50/ounce)
-- <a href='https://www.target.com/p/hershey-39-s-butterbeer-kisses-easter-candy-with-harry-potter-foils-9oz/-/A-93028327' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_32bdbf04-8b27-48fb-ad72-08b023344e7e?wid=384&qlt=80' alt='$5.29 ( $0.59 /ounce ) HERSHEY'S Butterbeer Kisses Easter Candy with Harry Potter Foils - 9oz 3.8 out of 5 stars Add to ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $0.59 /ounce ) HERSHEY'S Butterbeer Kisses Easter Candy with Harry Potter Foils - 9oz 3.8 out of 5 stars Add to ](https://www.target.com/p/hershey-39-s-butterbeer-kisses-easter-candy-with-harry-potter-foils-9oz/-/A-93028327)** — $5.29($0.59/ounce)
 - <a href='https://www.target.com/p/48ct-easter-plastic-eggs-mixed-pastel-colors-spritz-8482/-/A-86483665' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_4ea9d83e-cf25-4965-bc96-8a23747edd3d?wid=384&qlt=80' alt='$3.00 48ct Easter Plastic Eggs Mixed Pastel Colors - Spritz™ 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.00 48ct Easter Plastic Eggs Mixed Pastel Colors - Spritz™ 4.7 out of 5 stars Add to cart](https://www.target.com/p/48ct-easter-plastic-eggs-mixed-pastel-colors-spritz-8482/-/A-86483665)** — $3.00
 - <a href='https://www.target.com/p/olipop-shirley-temple-prebiotic-soda-12-fl-oz-can/-/A-94919377' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d0e9e5e8-b8fe-497d-8a0f-f270d0296589?wid=384&qlt=80' alt='$2.39 New lower price Buy 5 for $10 select OLIPOP soda Olipop Shirley Temple Prebiotic Soda - 12 fl oz Can 4.1 out of 5 ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.39 New lower price Buy 5 for $10 select OLIPOP soda Olipop Shirley Temple Prebiotic Soda - 12 fl oz Can 4.1 out of 5 ](https://www.target.com/p/olipop-shirley-temple-prebiotic-soda-12-fl-oz-can/-/A-94919377)** — $2.39New lower priceBuy 5 for $10 select OLIPOP soda
 - <a href='https://www.target.com/p/reese-39-s-pieces-peanut-butter-easter-candy-gift-bag-2-2oz/-/A-81306596' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cdf2a05d-2ea2-4ec6-b93c-5013655f75da?wid=384&qlt=80' alt='$1.99 ( $0.90 /ounce ) Reese's Pieces Peanut Butter Easter Candy Gift Bag - 2.2oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.90 /ounce ) Reese's Pieces Peanut Butter Easter Candy Gift Bag - 2.2oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/reese-39-s-pieces-peanut-butter-easter-candy-gift-bag-2-2oz/-/A-81306596)** — $1.99($0.90/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -47,6 +45,7 @@ _Last updated: 2026-03-13 16:59 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-03-14.csv](../data/daily-2026-03-14.csv)
 - [daily-2026-03-13.csv](../data/daily-2026-03-13.csv)
 - [daily-2026-03-12.csv](../data/daily-2026-03-12.csv)
 - [daily-2026-03-11.csv](../data/daily-2026-03-11.csv)
@@ -56,6 +55,5 @@ _Last updated: 2026-03-13 16:59 UTC_
 - [daily-2026-03-07.csv](../data/daily-2026-03-07.csv)
 - [daily-2026-03-06.csv](../data/daily-2026-03-06.csv)
 - [daily-2026-03-05.csv](../data/daily-2026-03-05.csv)
-- [daily-2026-03-04.csv](../data/daily-2026-03-04.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
