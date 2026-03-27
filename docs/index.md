@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-03-26 17:19 UTC_
+_Last updated: 2026-03-27 17:11 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -29,10 +29,8 @@ _Last updated: 2026-03-26 17:19 UTC_
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9f2babe0-099e-4d07-b413-38528adfa0e3?wid=384&qlt=80' alt='Skip to next section $5.99 ( $1.71 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold B' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $5.99 ( $1.71 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold B](https://www.target.com/sl/sunnyvale/2584#skip)** — $5.99($1.71/ounce)Buy 1, get 1 50% off select Lindt Easter chocolate candy
 - <a href='https://www.target.com/p/lindt-easter-gold-bunny-milk-chocolate-candy-3-5oz/-/A-77677951' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9f2babe0-099e-4d07-b413-38528adfa0e3?wid=384&qlt=80' alt='$5.99 ( $1.71 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold Bunny Milk Chocolate C' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.99 ( $1.71 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold Bunny Milk Chocolate C](https://www.target.com/p/lindt-easter-gold-bunny-milk-chocolate-candy-3-5oz/-/A-77677951)** — $5.99($1.71/ounce)Buy 1, get 1 50% off select Lindt Easter chocolate candy
 - <a href='https://www.target.com/p/reese-39-s-pieces-peanut-butter-easter-candy-gift-bag-2-2oz/-/A-81306596' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cdf2a05d-2ea2-4ec6-b93c-5013655f75da?wid=384&qlt=80' alt='$1.99 ( $0.90 /ounce ) select candy Reese's Pieces Peanut Butter Easter Candy Gift Bag - 2.2oz 4.7 out of 5 stars Add to' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.90 /ounce ) select candy Reese's Pieces Peanut Butter Easter Candy Gift Bag - 2.2oz 4.7 out of 5 stars Add to](https://www.target.com/p/reese-39-s-pieces-peanut-butter-easter-candy-gift-bag-2-2oz/-/A-81306596)** — $1.99($0.90/ounce)select candy
-- <a href='https://www.target.com/p/lindt-easter-gold-bunny-mini-milk-chocolate-candy-1-7oz-5ct/-/A-77679456' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cd248436-64a0-4236-a490-16dfca43c980?wid=384&qlt=80' alt='$5.99 ( $3.52 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold Bunny Mini Milk Chocol' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.99 ( $3.52 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold Bunny Mini Milk Chocol](https://www.target.com/p/lindt-easter-gold-bunny-mini-milk-chocolate-candy-1-7oz-5ct/-/A-77679456)** — $5.99($3.52/ounce)Buy 1, get 1 50% off select Lindt Easter chocolate candy
-- <a href='https://www.target.com/p/m-38-m-39-s-easter-milk-chocolate-minis-megatube-1-77oz/-/A-77677962' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_7f5cadf2-4787-489e-8670-e2c55be1c166?wid=384&qlt=80' alt='$2.39 ( $1.35 /ounce ) select candy M&M's Easter Candy Milk Chocolate Minis MegaTube - 1.77oz 4.8 out of 5 stars Add to ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.39 ( $1.35 /ounce ) select candy M&M's Easter Candy Milk Chocolate Minis MegaTube - 1.77oz 4.8 out of 5 stars Add to ](https://www.target.com/p/m-38-m-39-s-easter-milk-chocolate-minis-megatube-1-77oz/-/A-77677962)** — $2.39($1.35/ounce)select candy
-- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
 - <a href='https://www.target.com/p/m-38-m-39-s-milk-chocolate-easter-cane-3oz/-/A-84109190' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_1303ec5d-b643-405b-8727-45af54ef6174?wid=384&qlt=80' alt='$2.79 ( $0.93 /ounce ) select candy M&M's Milk Chocolate Easter Bunny Candy Cane - 3oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.93 /ounce ) select candy M&M's Milk Chocolate Easter Bunny Candy Cane - 3oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/m-38-m-39-s-milk-chocolate-easter-cane-3oz/-/A-84109190)** — $2.79($0.93/ounce)select candy
+- <a href='https://www.target.com/p/lindt-easter-gold-bunny-mini-milk-chocolate-candy-1-7oz-5ct/-/A-77679456' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cd248436-64a0-4236-a490-16dfca43c980?wid=384&qlt=80' alt='$5.99 ( $3.52 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold Bunny Mini Milk Chocol' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.99 ( $3.52 /ounce ) Buy 1, get 1 50% off select Lindt Easter chocolate candy Lindt Easter Gold Bunny Mini Milk Chocol](https://www.target.com/p/lindt-easter-gold-bunny-mini-milk-chocolate-candy-1-7oz-5ct/-/A-77679456)** — $5.99($3.52/ounce)Buy 1, get 1 50% off select Lindt Easter chocolate candy
 - <a href='https://www.target.com/p/whoppers-robin-eggs-minis-malted-milk-balls-easter-candy-carton-4oz/-/A-77657894' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_959134e0-c767-4e47-a3b2-ad6928ba2cb3?wid=384&qlt=80' alt='$1.79 ( $0.45 /ounce ) select candy Whoppers Robin Eggs Minis Malted Milk Balls Easter Candy Carton - 4oz 4.6 out of 5 s' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.79 ( $0.45 /ounce ) select candy Whoppers Robin Eggs Minis Malted Milk Balls Easter Candy Carton - 4oz 4.6 out of 5 s](https://www.target.com/p/whoppers-robin-eggs-minis-malted-milk-balls-easter-candy-carton-4oz/-/A-77657894)** — $1.79($0.45/ounce)select candy
 - <a href='https://www.target.com/p/kinder-joy-easter-chocolates-1ct-0-7oz-packaging-may-vary/-/A-53958150' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_fa077ab3-6e21-4119-9f43-911606875d52?wid=384&qlt=80' alt='$2.39 ( $3.41 /ounce ) select candy Kinder Joy Easter Basket Stuffers Egg Chocolates - 0.7oz/1ct (Packaging May Vary) 4.' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.39 ( $3.41 /ounce ) select candy Kinder Joy Easter Basket Stuffers Egg Chocolates - 0.7oz/1ct (Packaging May Vary) 4.](https://www.target.com/p/kinder-joy-easter-chocolates-1ct-0-7oz-packaging-may-vary/-/A-53958150)** — $2.39($3.41/ounce)select candy
 
@@ -40,12 +38,15 @@ _Last updated: 2026-03-26 17:19 UTC_
 - （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- （没有匹配到你的关键词）
+- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
+- **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2026-03-27.csv](../data/daily-2026-03-27.csv)
 - [daily-2026-03-26.csv](../data/daily-2026-03-26.csv)
 - [daily-2026-03-25.csv](../data/daily-2026-03-25.csv)
 - [daily-2026-03-24.csv](../data/daily-2026-03-24.csv)
@@ -55,6 +56,5 @@ _Last updated: 2026-03-26 17:19 UTC_
 - [daily-2026-03-20.csv](../data/daily-2026-03-20.csv)
 - [daily-2026-03-19.csv](../data/daily-2026-03-19.csv)
 - [daily-2026-03-18.csv](../data/daily-2026-03-18.csv)
-- [daily-2026-03-17.csv](../data/daily-2026-03-17.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
