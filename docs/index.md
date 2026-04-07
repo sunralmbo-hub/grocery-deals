@@ -1,14 +1,14 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-04-06 17:07 UTC_
+_Last updated: 2026-04-07 17:16 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
-- <a href='https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/tn6cTEI0RB8cuVB0Yf-R1tpSUNmVK1K17dBnvLCVIRg/619x526.jpg' alt='Easter Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopp' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Easter Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopp](https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html)**
+- <a href='https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/tn6cTEI0RB8cuVB0Yf-R1tpSUNmVK1K17dBnvLCVIRg/619x526.jpg' alt='Mother's Day Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Mother's Day Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online](https://local.safeway.com/safeway/ca/sunnyvale/639-s-bernardo-ave/holiday.html)**
 - **[Featured Services](https://order.cakes.com/pbc/safeway-1196-bky)**
 - **[Order Custom Cakes in [address.city], [address.region]](https://order.cakes.com/pbc/safeway-1196-bky)**
 
 ### Safeway — 150 E El Camino Real (Sunnyvale)
-- <a href='https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/CNbZdqhSb1a_xZ_254GvvHjbEFVBp-khiI3-hNBtqfQ/619x526.jpg' alt='Easter Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopp' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Easter Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online Shopp](https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html)**
+- <a href='https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html' target='_blank'><img src='https://dynl.mktgcdn.com/p/CNbZdqhSb1a_xZ_254GvvHjbEFVBp-khiI3-hNBtqfQ/619x526.jpg' alt='Mother's Day Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Mother's Day Pharmacy All Pharmacy Vaccinations Parties & Events Bakery Deli All Deli Chicken Online Shopping All Online](https://local.safeway.com/safeway/ca/sunnyvale/150-e-el-camino-real/holiday.html)**
 - **[Featured Services](https://order.cakes.com/pbc/safeway-2887-bky)**
 - **[Order Custom Cakes in [address.city], [address.region]](https://order.cakes.com/pbc/safeway-2887-bky)**
 
@@ -28,11 +28,11 @@ _Last updated: 2026-04-06 17:07 UTC_
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_65f29e65-102c-494e-bdd7-7bdd9cf4b6b9?wid=384&qlt=80' alt='Skip to next section $1.50 ( $1.20 /ounce ) Spring Bunny Easter Bark with Belgian Milk Chocolate Candy - 1.24oz - Favori' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $1.50 ( $1.20 /ounce ) Spring Bunny Easter Bark with Belgian Milk Chocolate Candy - 1.24oz - Favori](https://www.target.com/sl/sunnyvale/2584#skip)** — $1.50($1.20/ounce)
 - <a href='https://www.target.com/p/spring-bunny-easter-bark-with-belgian-milk-chocolate-1-24oz-favorite-day-8482/-/A-86518436' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_65f29e65-102c-494e-bdd7-7bdd9cf4b6b9?wid=384&qlt=80' alt='$1.50 ( $1.20 /ounce ) Spring Bunny Easter Bark with Belgian Milk Chocolate Candy - 1.24oz - Favorite Day™ 4.1 out of 5 ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.50 ( $1.20 /ounce ) Spring Bunny Easter Bark with Belgian Milk Chocolate Candy - 1.24oz - Favorite Day™ 4.1 out of 5 ](https://www.target.com/p/spring-bunny-easter-bark-with-belgian-milk-chocolate-1-24oz-favorite-day-8482/-/A-86518436)** — $1.50($1.20/ounce)
 - <a href='https://www.target.com/p/reese-39-s-milk-chocolate-reester-peanut-butter-bunny-easter-candy-5oz/-/A-77645206' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_214e89a8-a153-4d1a-ac34-64cae397b9ee?wid=384&qlt=80' alt='$5.29 ( $1.06 /ounce ) Reese's Milk Chocolate Reester Peanut Butter Bunny Easter Candy - 5oz 4.7 out of 5 stars Add to c' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.29 ( $1.06 /ounce ) Reese's Milk Chocolate Reester Peanut Butter Bunny Easter Candy - 5oz 4.7 out of 5 stars Add to c](https://www.target.com/p/reese-39-s-milk-chocolate-reester-peanut-butter-bunny-easter-candy-5oz/-/A-77645206)** — $5.29($1.06/ounce)
-- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
-- <a href='https://www.target.com/p/easter-egg-cookie-kit-24-36oz-favorite-day-8482/-/A-94776760' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4fb04b7-2f15-4dd4-ae54-ea4f7094138d?wid=384&qlt=80' alt='$10.00 Easter Egg Cookie Kit - 24.36oz - Favorite Day™ 4.1 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$10.00 Easter Egg Cookie Kit - 24.36oz - Favorite Day™ 4.1 out of 5 stars Add to cart](https://www.target.com/p/easter-egg-cookie-kit-24-36oz-favorite-day-8482/-/A-94776760)** — $10.00
+- <a href='https://www.target.com/p/easter-egg-cookie-kit-24-36oz-favorite-day-8482/-/A-94776760' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4fb04b7-2f15-4dd4-ae54-ea4f7094138d?wid=384&qlt=80' alt='$10.00 Easter Egg Cookie Kit - 24.36oz - Favorite Day™ 4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$10.00 Easter Egg Cookie Kit - 24.36oz - Favorite Day™ 4 out of 5 stars Add to cart](https://www.target.com/p/easter-egg-cookie-kit-24-36oz-favorite-day-8482/-/A-94776760)** — $10.00
+- <a href='https://www.target.com/p/easter-egg-farm-animals-decorating-kit-spritz-8482/-/A-94735131' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6141877b-dbed-4188-9c55-9448d5909b0e?wid=384&qlt=80' alt='$2.55 Clearance Easter Egg Farm Animals Decorating Kit - Spritz™ 4.4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.55 Clearance Easter Egg Farm Animals Decorating Kit - Spritz™ 4.4 out of 5 stars Add to cart](https://www.target.com/p/easter-egg-farm-animals-decorating-kit-spritz-8482/-/A-94735131)** — $2.55Clearance
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -41,6 +41,7 @@ _Last updated: 2026-04-06 17:07 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-04-07.csv](../data/daily-2026-04-07.csv)
 - [daily-2026-04-06.csv](../data/daily-2026-04-06.csv)
 - [daily-2026-04-05.csv](../data/daily-2026-04-05.csv)
 - [daily-2026-04-04.csv](../data/daily-2026-04-04.csv)
@@ -50,6 +51,5 @@ _Last updated: 2026-04-06 17:07 UTC_
 - [daily-2026-03-31.csv](../data/daily-2026-03-31.csv)
 - [daily-2026-03-30.csv](../data/daily-2026-03-30.csv)
 - [daily-2026-03-29.csv](../data/daily-2026-03-29.csv)
-- [daily-2026-03-28.csv](../data/daily-2026-03-28.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
