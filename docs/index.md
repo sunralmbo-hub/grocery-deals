@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-04-08 17:33 UTC_
+_Last updated: 2026-04-09 17:32 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -24,11 +24,11 @@ _Last updated: 2026-04-08 17:33 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/mandarin-orange-chicken.png' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_79fedd58-7dd9-46cc-83c9-230e7ef2a7f9?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $30.00
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_79fedd58-7dd9-46cc-83c9-230e7ef2a7f9?wid=384&qlt=80' alt='Skip to next section $30.00 Hot Wheels Retro Light Up Kids' Wall Car Storage Orange - Hot Wheels by Pillowfort™ 5 out of' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $30.00 Hot Wheels Retro Light Up Kids' Wall Car Storage Orange - Hot Wheels by Pillowfort™ 5 out of](https://www.target.com/sl/sunnyvale/2584#skip)** — $30.00
-- <a href='https://www.target.com/p/hot-wheels-retro-light-up-kids-39-wall-car-storage-orange-hot-wheels-by-pillowfort-8482/-/A-94853072' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_79fedd58-7dd9-46cc-83c9-230e7ef2a7f9?wid=384&qlt=80' alt='$30.00 Hot Wheels Retro Light Up Kids' Wall Car Storage Orange - Hot Wheels by Pillowfort™ 5 out of 5 stars Add to cart ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$30.00 Hot Wheels Retro Light Up Kids' Wall Car Storage Orange - Hot Wheels by Pillowfort™ 5 out of 5 stars Add to cart ](https://www.target.com/p/hot-wheels-retro-light-up-kids-39-wall-car-storage-orange-hot-wheels-by-pillowfort-8482/-/A-94853072)** — $30.00
-- <a href='https://www.target.com/p/easter-egg-cookie-kit-24-36oz-favorite-day-8482/-/A-94776760' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a4fb04b7-2f15-4dd4-ae54-ea4f7094138d?wid=384&qlt=80' alt='$10.00 Easter Egg Cookie Kit - 24.36oz - Favorite Day™ 4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$10.00 Easter Egg Cookie Kit - 24.36oz - Favorite Day™ 4 out of 5 stars Add to cart](https://www.target.com/p/easter-egg-cookie-kit-24-36oz-favorite-day-8482/-/A-94776760)** — $10.00
-- <a href='https://www.target.com/p/spring-bunny-easter-bark-with-belgian-milk-chocolate-1-24oz-favorite-day-8482/-/A-86518436' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_65f29e65-102c-494e-bdd7-7bdd9cf4b6b9?wid=384&qlt=80' alt='$1.50 ( $1.20 /ounce ) Spring Bunny Easter Bark with Belgian Milk Chocolate Candy - 1.24oz - Favorite Day™ 4.1 out of 5 ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.50 ( $1.20 /ounce ) Spring Bunny Easter Bark with Belgian Milk Chocolate Candy - 1.24oz - Favorite Day™ 4.1 out of 5 ](https://www.target.com/p/spring-bunny-easter-bark-with-belgian-milk-chocolate-1-24oz-favorite-day-8482/-/A-86518436)** — $1.50($1.20/ounce)
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='Skip to next section $2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Dri' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Dri](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/javvy-strawberry-acai-clear-protein-refreshers-iced-tea-mix-9-2oz/-/A-94991714' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_9a90e79b-bd4f-4d8a-81cd-6c16f8ce55f3?wid=384&qlt=80' alt='$27.49 Buy 1, get 1 20% off Javvy protein coffee & drinks Javvy Strawberry Acai Clear Protein Refreshers - 9.2oz 4.5 out' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$27.49 Buy 1, get 1 20% off Javvy protein coffee & drinks Javvy Strawberry Acai Clear Protein Refreshers - 9.2oz 4.5 out](https://www.target.com/p/javvy-strawberry-acai-clear-protein-refreshers-iced-tea-mix-9-2oz/-/A-94991714)** — $27.49Buy 1, get 1 20% off Javvy protein coffee & drinks
+- <a href='https://www.target.com/p/kodiak-cakes-protein-packed-single-serve-flapjack-cup-blueberry-38-maple-2-22oz/-/A-17264553' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_5ff43a2c-fdee-41a0-9f3e-6427a019fe94?wid=384&qlt=80' alt='$1.99 ( $0.90 /ounce ) Sale Kodiak Cakes Protein-Packed Single-Serve Flapjack Cup Blueberry & Maple - 2.22oz Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$1.99 ( $0.90 /ounce ) Sale Kodiak Cakes Protein-Packed Single-Serve Flapjack Cup Blueberry & Maple - 2.22oz Add to cart](https://www.target.com/p/kodiak-cakes-protein-packed-single-serve-flapjack-cup-blueberry-38-maple-2-22oz/-/A-17264553)** — $1.99($0.90/ounce)Sale
 
 ### 99 Ranch Market — (select store)
 - **[ERROR](https://www.99ranch.com/)**
@@ -40,6 +40,7 @@ _Last updated: 2026-04-08 17:33 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-04-09.csv](../data/daily-2026-04-09.csv)
 - [daily-2026-04-08.csv](../data/daily-2026-04-08.csv)
 - [daily-2026-04-07.csv](../data/daily-2026-04-07.csv)
 - [daily-2026-04-06.csv](../data/daily-2026-04-06.csv)
@@ -49,6 +50,5 @@ _Last updated: 2026-04-08 17:33 UTC_
 - [daily-2026-04-02.csv](../data/daily-2026-04-02.csv)
 - [daily-2026-04-01.csv](../data/daily-2026-04-01.csv)
 - [daily-2026-03-31.csv](../data/daily-2026-03-31.csv)
-- [daily-2026-03-30.csv](../data/daily-2026-03-30.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
