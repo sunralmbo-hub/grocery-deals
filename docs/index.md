@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-04-18 16:59 UTC_
+_Last updated: 2026-04-19 16:58 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -28,12 +28,13 @@ _Last updated: 2026-04-18 16:59 UTC_
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cab30866-fcd4-46fb-b841-338bd30d378c?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.19($2.77/ounce)
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cab30866-fcd4-46fb-b841-338bd30d378c?wid=384&qlt=80' alt='Skip to next section $3.19 ( $2.77 /ounce ) Chomps Snack Sticks Smoky BBQ Beef Meat Stick - 1.15oz Add to cart $2.59 Buy' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.19 ( $2.77 /ounce ) Chomps Snack Sticks Smoky BBQ Beef Meat Stick - 1.15oz Add to cart $2.59 Buy](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.19($2.77/ounce)
 - <a href='https://www.target.com/p/chomps-snack-sticks-smoky-bbq-stick-1-15oz/-/A-93922916' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_cab30866-fcd4-46fb-b841-338bd30d378c?wid=384&qlt=80' alt='$3.19 ( $2.77 /ounce ) Chomps Snack Sticks Smoky BBQ Beef Meat Stick - 1.15oz Add to cart $2.59 Buy 5 for $12 select ene' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.19 ( $2.77 /ounce ) Chomps Snack Sticks Smoky BBQ Beef Meat Stick - 1.15oz Add to cart $2.59 Buy 5 for $12 select ene](https://www.target.com/p/chomps-snack-sticks-smoky-bbq-stick-1-15oz/-/A-93922916)** — $3.19($2.77/ounce)
-- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.6](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
 - <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
-- <a href='https://www.target.com/p/bubs-swedish-candy-banana-toffee-5-5oz/-/A-94919293' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_040a1e8e-f3c8-400d-af28-a5a6929795cd?wid=384&qlt=80' alt='$3.29 BUBS Swedish Candy Banana Toffee - 5.5oz 3.6 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.29 BUBS Swedish Candy Banana Toffee - 5.5oz 3.6 out of 5 stars Add to cart](https://www.target.com/p/bubs-swedish-candy-banana-toffee-5-5oz/-/A-94919293)** — $3.29
+- <a href='https://www.target.com/p/bubs-swedish-candy-banana-toffee-5-5oz/-/A-94919293' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_040a1e8e-f3c8-400d-af28-a5a6929795cd?wid=384&qlt=80' alt='$3.29 BUBS Swedish Candy Banana Toffee - 5.5oz 3.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.29 BUBS Swedish Candy Banana Toffee - 5.5oz 3.8 out of 5 stars Add to cart](https://www.target.com/p/bubs-swedish-candy-banana-toffee-5-5oz/-/A-94919293)** — $3.29
+- <a href='https://www.target.com/p/scoot-frozen-lemonade-strawberry-3oz-5ct-pouches/-/A-95030792' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_baf2ea77-6a0c-4a0d-a5b5-391852efe0c8?wid=384&qlt=80' alt='$7.99 Scoot Frozen Lemonade - Strawberry - 3oz/5ct Pouches 5 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$7.99 Scoot Frozen Lemonade - Strawberry - 3oz/5ct Pouches 5 out of 5 stars Add to cart](https://www.target.com/p/scoot-frozen-lemonade-strawberry-3oz-5ct-pouches/-/A-95030792)** — $7.99
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -42,6 +43,7 @@ _Last updated: 2026-04-18 16:59 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-04-19.csv](../data/daily-2026-04-19.csv)
 - [daily-2026-04-18.csv](../data/daily-2026-04-18.csv)
 - [daily-2026-04-17.csv](../data/daily-2026-04-17.csv)
 - [daily-2026-04-16.csv](../data/daily-2026-04-16.csv)
@@ -51,6 +53,5 @@ _Last updated: 2026-04-18 16:59 UTC_
 - [daily-2026-04-12.csv](../data/daily-2026-04-12.csv)
 - [daily-2026-04-11.csv](../data/daily-2026-04-11.csv)
 - [daily-2026-04-10.csv](../data/daily-2026-04-10.csv)
-- [daily-2026-04-09.csv](../data/daily-2026-04-09.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
