@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-04-20 17:19 UTC_
+_Last updated: 2026-04-21 17:17 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -32,7 +32,7 @@ _Last updated: 2026-04-20 17:19 UTC_
 - <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -41,6 +41,7 @@ _Last updated: 2026-04-20 17:19 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-04-21.csv](../data/daily-2026-04-21.csv)
 - [daily-2026-04-20.csv](../data/daily-2026-04-20.csv)
 - [daily-2026-04-19.csv](../data/daily-2026-04-19.csv)
 - [daily-2026-04-18.csv](../data/daily-2026-04-18.csv)
@@ -50,6 +51,5 @@ _Last updated: 2026-04-20 17:19 UTC_
 - [daily-2026-04-14.csv](../data/daily-2026-04-14.csv)
 - [daily-2026-04-13.csv](../data/daily-2026-04-13.csv)
 - [daily-2026-04-12.csv](../data/daily-2026-04-12.csv)
-- [daily-2026-04-11.csv](../data/daily-2026-04-11.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
