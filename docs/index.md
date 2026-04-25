@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-04-24 17:14 UTC_
+_Last updated: 2026-04-25 17:02 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -27,14 +27,15 @@ _Last updated: 2026-04-24 17:14 UTC_
 ### Target — Sunnyvale (Store 2584)
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='Skip to next section $3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 sta' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 sta](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
-- <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $5.00 ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $5.00 ](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
+- <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $6.99 ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $6.99 ](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
 - <a href='https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-birthday-cake-multipack-7-4oz-10ct/-/A-95098293' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a84cdf53-fc28-4226-88eb-98df459fa998?wid=384&qlt=80' alt='$8.39 Drizzilicious Drizzled Mini Rice Cakes Birthday Cake Multipack - 7.4oz/10ct 4.2 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$8.39 Drizzilicious Drizzled Mini Rice Cakes Birthday Cake Multipack - 7.4oz/10ct 4.2 out of 5 stars Add to cart](https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-birthday-cake-multipack-7-4oz-10ct/-/A-95098293)** — $8.39
 - <a href='https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-smores-multipack-7-4oz-10ct/-/A-95098294' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_09d44acd-7f51-4d18-ba63-1b9234326556?wid=384&qlt=80' alt='$9.79 Drizzilicious Drizzled Mini Rice Cakes Smores Multipack - 7.4oz/10ct 3.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$9.79 Drizzilicious Drizzled Mini Rice Cakes Smores Multipack - 7.4oz/10ct 3.7 out of 5 stars Add to cart](https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-smores-multipack-7-4oz-10ct/-/A-95098294)** — $9.79
+- <a href='https://www.target.com/p/pure-genius-liquid-protein-shot-strawberry-guava-3-38-floz-4pk/-/A-95010435' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_7ed12568-f857-4302-aef8-8d6f2aad54af?wid=384&qlt=80' alt='$18.19 Pure Genius Liquid Protein Shot - Strawberry Guava - 3.38 floz/4pk 4.2 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$18.19 Pure Genius Liquid Protein Shot - Strawberry Guava - 3.38 floz/4pk 4.2 out of 5 stars Add to cart](https://www.target.com/p/pure-genius-liquid-protein-shot-strawberry-guava-3-38-floz-4pk/-/A-95010435)** — $18.19
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -43,6 +44,7 @@ _Last updated: 2026-04-24 17:14 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-04-25.csv](../data/daily-2026-04-25.csv)
 - [daily-2026-04-24.csv](../data/daily-2026-04-24.csv)
 - [daily-2026-04-23.csv](../data/daily-2026-04-23.csv)
 - [daily-2026-04-22.csv](../data/daily-2026-04-22.csv)
@@ -52,6 +54,5 @@ _Last updated: 2026-04-24 17:14 UTC_
 - [daily-2026-04-18.csv](../data/daily-2026-04-18.csv)
 - [daily-2026-04-17.csv](../data/daily-2026-04-17.csv)
 - [daily-2026-04-16.csv](../data/daily-2026-04-16.csv)
-- [daily-2026-04-15.csv](../data/daily-2026-04-15.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
