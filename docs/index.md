@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-04-26 17:03 UTC_
+_Last updated: 2026-04-27 17:42 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -33,7 +33,7 @@ _Last updated: 2026-04-26 17:03 UTC_
 - <a href='https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-birthday-cake-multipack-7-4oz-10ct/-/A-95098293' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a84cdf53-fc28-4226-88eb-98df459fa998?wid=384&qlt=80' alt='$8.39 Drizzilicious Drizzled Mini Rice Cakes Birthday Cake Multipack - 7.4oz/10ct 4.4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$8.39 Drizzilicious Drizzled Mini Rice Cakes Birthday Cake Multipack - 7.4oz/10ct 4.4 out of 5 stars Add to cart](https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-birthday-cake-multipack-7-4oz-10ct/-/A-95098293)** — $8.39
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -42,6 +42,7 @@ _Last updated: 2026-04-26 17:03 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-04-27.csv](../data/daily-2026-04-27.csv)
 - [daily-2026-04-26.csv](../data/daily-2026-04-26.csv)
 - [daily-2026-04-25.csv](../data/daily-2026-04-25.csv)
 - [daily-2026-04-24.csv](../data/daily-2026-04-24.csv)
@@ -51,6 +52,5 @@ _Last updated: 2026-04-26 17:03 UTC_
 - [daily-2026-04-20.csv](../data/daily-2026-04-20.csv)
 - [daily-2026-04-19.csv](../data/daily-2026-04-19.csv)
 - [daily-2026-04-18.csv](../data/daily-2026-04-18.csv)
-- [daily-2026-04-17.csv](../data/daily-2026-04-17.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
