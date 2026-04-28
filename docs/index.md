@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-04-27 17:42 UTC_
+_Last updated: 2026-04-28 17:56 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -27,7 +27,7 @@ _Last updated: 2026-04-27 17:42 UTC_
 ### Target — Sunnyvale (Store 2584)
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='Skip to next section $3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 sta' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 sta](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
-- <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $2.79 ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $2.79 ](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
+- <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $35.00' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart $35.00](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 5 out of 5 stars Add to cart](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
 - <a href='https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-birthday-cake-multipack-7-4oz-10ct/-/A-95098293' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_a84cdf53-fc28-4226-88eb-98df459fa998?wid=384&qlt=80' alt='$8.39 Drizzilicious Drizzled Mini Rice Cakes Birthday Cake Multipack - 7.4oz/10ct 4.4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$8.39 Drizzilicious Drizzled Mini Rice Cakes Birthday Cake Multipack - 7.4oz/10ct 4.4 out of 5 stars Add to cart](https://www.target.com/p/drizzilicious-drizzled-mini-rice-cakes-birthday-cake-multipack-7-4oz-10ct/-/A-95098293)** — $8.39
@@ -42,6 +42,7 @@ _Last updated: 2026-04-27 17:42 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-04-28.csv](../data/daily-2026-04-28.csv)
 - [daily-2026-04-27.csv](../data/daily-2026-04-27.csv)
 - [daily-2026-04-26.csv](../data/daily-2026-04-26.csv)
 - [daily-2026-04-25.csv](../data/daily-2026-04-25.csv)
@@ -51,6 +52,5 @@ _Last updated: 2026-04-27 17:42 UTC_
 - [daily-2026-04-21.csv](../data/daily-2026-04-21.csv)
 - [daily-2026-04-20.csv](../data/daily-2026-04-20.csv)
 - [daily-2026-04-19.csv](../data/daily-2026-04-19.csv)
-- [daily-2026-04-18.csv](../data/daily-2026-04-18.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
