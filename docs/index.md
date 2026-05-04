@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-05-03 17:09 UTC_
+_Last updated: 2026-05-04 17:52 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -24,13 +24,13 @@ _Last updated: 2026-05-03 17:09 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/mandarin-orange-chicken.png' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='Skip to next section $2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Dri' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Dri](https://www.target.com/sl/sunnyvale/2584#skip)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e51e96cb-1351-4866-bbf5-7cf2d8ed3efe?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $4.89
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e51e96cb-1351-4866-bbf5-7cf2d8ed3efe?wid=384&qlt=80' alt='Skip to next section $4.89 SOUR PATCH KIDS Pokémon Watermelon Soft & Chewy Gummy Candy - 11.97oz 4.7 out of 5 stars Add ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $4.89 SOUR PATCH KIDS Pokémon Watermelon Soft & Chewy Gummy Candy - 11.97oz 4.7 out of 5 stars Add ](https://www.target.com/sl/sunnyvale/2584#skip)** — $4.89
+- <a href='https://www.target.com/p/sour-patch-kids-pok-233-mon-watermelon-soft-38-chewy-candy-11-97oz/-/A-95065496' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_e51e96cb-1351-4866-bbf5-7cf2d8ed3efe?wid=384&qlt=80' alt='$4.89 SOUR PATCH KIDS Pokémon Watermelon Soft & Chewy Gummy Candy - 11.97oz 4.7 out of 5 stars Add to cart $14.99 Wet Br' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$4.89 SOUR PATCH KIDS Pokémon Watermelon Soft & Chewy Gummy Candy - 11.97oz 4.7 out of 5 stars Add to cart $14.99 Wet Br](https://www.target.com/p/sour-patch-kids-pok-233-mon-watermelon-soft-38-chewy-candy-11-97oz/-/A-95065496)** — $4.89
 - <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
-- <a href='https://www.target.com/p/yough-mozzarella-cheese-frozen-pizza-11-3oz/-/A-94975371' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_bbb193c4-534e-4c65-b3e2-16b992bf3276?wid=384&qlt=80' alt='$10.99 Yough! Mozzarella Cheese Frozen Pizza - 11.3oz 4.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$10.99 Yough! Mozzarella Cheese Frozen Pizza - 11.3oz 4.8 out of 5 stars Add to cart](https://www.target.com/p/yough-mozzarella-cheese-frozen-pizza-11-3oz/-/A-94975371)** — $10.99
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -39,6 +39,7 @@ _Last updated: 2026-05-03 17:09 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-05-04.csv](../data/daily-2026-05-04.csv)
 - [daily-2026-05-03.csv](../data/daily-2026-05-03.csv)
 - [daily-2026-05-02.csv](../data/daily-2026-05-02.csv)
 - [daily-2026-05-01.csv](../data/daily-2026-05-01.csv)
@@ -48,6 +49,5 @@ _Last updated: 2026-05-03 17:09 UTC_
 - [daily-2026-04-27.csv](../data/daily-2026-04-27.csv)
 - [daily-2026-04-26.csv](../data/daily-2026-04-26.csv)
 - [daily-2026-04-25.csv](../data/daily-2026-04-25.csv)
-- [daily-2026-04-24.csv](../data/daily-2026-04-24.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
