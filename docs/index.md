@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-05-06 17:53 UTC_
+_Last updated: 2026-05-07 17:58 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -24,11 +24,12 @@ _Last updated: 2026-05-06 17:53 UTC_
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/mandarin-orange-chicken.png' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
 
 ### Target — Sunnyvale (Store 2584)
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_310becdf-705d-4098-b0d5-896be4c557ff?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.19
-- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_310becdf-705d-4098-b0d5-896be4c557ff?wid=384&qlt=80' alt='Skip to next section $3.19 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.19 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars A](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.19
-- <a href='https://www.target.com/p/pop-tarts-pok-233-mon-frosted-vanilla-cupcake-toaster-pastries-20-3oz-12ct/-/A-94992405' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_310becdf-705d-4098-b0d5-896be4c557ff?wid=384&qlt=80' alt='$3.19 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars Add to cart $4.89 SOUR' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.19 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars Add to cart $4.89 SOUR](https://www.target.com/p/pop-tarts-pok-233-mon-frosted-vanilla-cupcake-toaster-pastries-20-3oz-12ct/-/A-94992405)** — $3.19
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_310becdf-705d-4098-b0d5-896be4c557ff?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
+- <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_310becdf-705d-4098-b0d5-896be4c557ff?wid=384&qlt=80' alt='Skip to next section $3.99 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars A' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.99 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars A](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
+- <a href='https://www.target.com/p/pop-tarts-pok-233-mon-frosted-vanilla-cupcake-toaster-pastries-20-3oz-12ct/-/A-94992405' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_310becdf-705d-4098-b0d5-896be4c557ff?wid=384&qlt=80' alt='$3.99 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars Add to cart $7.39 Buy ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 Pop-Tarts Pokémon Frosted Vanilla Cupcake Toaster Pastries - 20.3oz/12ct 4.1 out of 5 stars Add to cart $7.39 Buy ](https://www.target.com/p/pop-tarts-pok-233-mon-frosted-vanilla-cupcake-toaster-pastries-20-3oz-12ct/-/A-94992405)** — $3.99
 - <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
-- <a href='https://www.target.com/p/tru-fru-strawberries-frozen-dairy-dessert-8oz/-/A-94998831' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_01633976-b9d8-4fd0-994e-88a17e01defd?wid=384&qlt=80' alt='$8.69 Tru Fru Strawberries Frozen Dairy Dessert - 8oz 5 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$8.69 Tru Fru Strawberries Frozen Dairy Dessert - 8oz 5 out of 5 stars Add to cart](https://www.target.com/p/tru-fru-strawberries-frozen-dairy-dessert-8oz/-/A-94998831)** — $8.69
+- <a href='https://www.target.com/p/chobani-cookies-38-cream-coffee-creamer-24-fl-oz/-/A-77594352' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_592f2354-d907-49f7-9500-be6292299df3?wid=384&qlt=80' alt='$6.29 Buy 2 for $10 select Chobani creamers Chobani Cookies & Cream Coffee Creamer - 24 fl oz 4.9 out of 5 stars Add to ' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$6.29 Buy 2 for $10 select Chobani creamers Chobani Cookies & Cream Coffee Creamer - 24 fl oz 4.9 out of 5 stars Add to ](https://www.target.com/p/chobani-cookies-38-cream-coffee-creamer-24-fl-oz/-/A-77594352)** — $6.29Buy 2 for $10 select Chobani creamers
+- <a href='https://www.target.com/p/tru-fru-freeze-dried-strawberries-in-milk-chocolate-3-4oz/-/A-94921625' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0c6c5d26-d49b-421b-8312-aa5bb6c89843?wid=384&qlt=80' alt='$5.09 Sale Tru Fru Freeze Dried Strawberries in Milk Chocolate - 3.4oz 4.3 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.09 Sale Tru Fru Freeze Dried Strawberries in Milk Chocolate - 3.4oz 4.3 out of 5 stars Add to cart](https://www.target.com/p/tru-fru-freeze-dried-strawberries-in-milk-chocolate-3-4oz/-/A-94921625)** — $5.09Sale
 
 ### 99 Ranch Market — (select store)
 - **[ERROR](https://www.99ranch.com/)**
@@ -40,6 +41,7 @@ _Last updated: 2026-05-06 17:53 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-05-07.csv](../data/daily-2026-05-07.csv)
 - [daily-2026-05-06.csv](../data/daily-2026-05-06.csv)
 - [daily-2026-05-05.csv](../data/daily-2026-05-05.csv)
 - [daily-2026-05-04.csv](../data/daily-2026-05-04.csv)
@@ -49,6 +51,5 @@ _Last updated: 2026-05-06 17:53 UTC_
 - [daily-2026-04-30.csv](../data/daily-2026-04-30.csv)
 - [daily-2026-04-29.csv](../data/daily-2026-04-29.csv)
 - [daily-2026-04-28.csv](../data/daily-2026-04-28.csv)
-- [daily-2026-04-27.csv](../data/daily-2026-04-27.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
