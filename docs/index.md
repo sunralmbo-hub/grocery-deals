@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-05-11 18:05 UTC_
+_Last updated: 2026-05-12 18:18 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -31,7 +31,7 @@ _Last updated: 2026-05-11 18:05 UTC_
 - <a href='https://www.target.com/p/14oz-mama-needs-some-coffee-shortie-mug-green-room-essentials-8482/-/A-94797906' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d36f1a28-1947-4848-9f7c-cbd5d1130558?wid=384&qlt=80' alt='$5.00 14oz Mama Needs Some Coffee Shortie Mug Green - Room Essentials™ 4.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 14oz Mama Needs Some Coffee Shortie Mug Green - Room Essentials™ 4.8 out of 5 stars Add to cart](https://www.target.com/p/14oz-mama-needs-some-coffee-shortie-mug-green-room-essentials-8482/-/A-94797906)** — $5.00
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - （没有匹配到你的关键词）
@@ -40,6 +40,7 @@ _Last updated: 2026-05-11 18:05 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-05-12.csv](../data/daily-2026-05-12.csv)
 - [daily-2026-05-11.csv](../data/daily-2026-05-11.csv)
 - [daily-2026-05-10.csv](../data/daily-2026-05-10.csv)
 - [daily-2026-05-09.csv](../data/daily-2026-05-09.csv)
@@ -49,6 +50,5 @@ _Last updated: 2026-05-11 18:05 UTC_
 - [daily-2026-05-05.csv](../data/daily-2026-05-05.csv)
 - [daily-2026-05-04.csv](../data/daily-2026-05-04.csv)
 - [daily-2026-05-03.csv](../data/daily-2026-05-03.csv)
-- [daily-2026-05-02.csv](../data/daily-2026-05-02.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
