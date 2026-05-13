@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-05-12 18:18 UTC_
+_Last updated: 2026-05-13 18:18 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -14,11 +14,12 @@ _Last updated: 2026-05-12 18:18 UTC_
 
 ### Whole Foods Market — Sunnyvale
 - <a href='https://www.wholefoodsmarket.com/' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Sunnyvale' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale](https://www.wholefoodsmarket.com/)**
-- <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Store Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Store Sales](https://www.wholefoodsmarket.com/amazon/prime)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Fresh Halibut Fillet*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Fresh Halibut Fillet*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Large Quiche*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Large Quiche*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/amazon/prime' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-plural@2x.png' alt='Deals and Sales' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Deals and Sales](https://www.wholefoodsmarket.com/amazon/prime)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/pmd-circle-singular.png' alt='80% Lean Ground Beef*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[80% Lean Ground Beef*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 - <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Strawberries, 16 oz*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Strawberries, 16 oz*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
-- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Honeycrisp Apples*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Honeycrisp Apples*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Made-in-House Beef Burgers *' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Made-in-House Beef Burgers *](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Corn, 4 ct*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Corn, 4 ct*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
+- <a href='https://www.wholefoodsmarket.com/stores/sunnyvale#legalese' target='_blank'><img src='https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/sale-circle.png' alt='Large Hass Avocados*' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Large Hass Avocados*](https://www.wholefoodsmarket.com/stores/sunnyvale#legalese)**
 
 ### Trader Joe’s — Sunnyvale (#68)
 - <a href='https://locations.traderjoes.com/ca/sunnyvale/68/' target='_blank'><img src='https://llp-assets.meetsoci.com/live/assets/traderjoes/local/images/mandarin-orange-chicken.png' alt='Sunnyvale (68)| Grocery Store in Sunnyvale 94087' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Sunnyvale (68)| Grocery Store in Sunnyvale 94087](https://locations.traderjoes.com/ca/sunnyvale/68/)**
@@ -28,7 +29,9 @@ _Last updated: 2026-05-12 18:18 UTC_
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_13186177-9999-4c63-8db3-72654f1d12f1?wid=384&qlt=80' alt='Skip to next section $34.99 Owala 24fl oz Stainless Steel Special Edition FreeSip Water Bottle - Studded Garden Add to c' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $34.99 Owala 24fl oz Stainless Steel Special Edition FreeSip Water Bottle - Studded Garden Add to c](https://www.target.com/sl/sunnyvale/2584#skip)** — $34.99
 - <a href='https://www.target.com/p/owala-24oz-stainless-steel-special-edition-freesip-water-bottle-studded-garden/-/A-94966482' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_13186177-9999-4c63-8db3-72654f1d12f1?wid=384&qlt=80' alt='$34.99 Owala 24fl oz Stainless Steel Special Edition FreeSip Water Bottle - Studded Garden Add to cart $2.79 ( $0.23 /fl' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$34.99 Owala 24fl oz Stainless Steel Special Edition FreeSip Water Bottle - Studded Garden Add to cart $2.79 ( $0.23 /fl](https://www.target.com/p/owala-24oz-stainless-steel-special-edition-freesip-water-bottle-studded-garden/-/A-94966482)** — $34.99
 - <a href='https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_6333679c-33a1-42aa-96ee-7ce220d212ce?wid=384&qlt=80' alt='$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 ( $0.23 /fluid ounce ) Buy 5 for $12 select energy drinks Alani strawberry Sunrise Energy Drink - 12 fl oz Can 4.5](https://www.target.com/p/alani-strawberry-sunrise-energy-drink-12-fl-oz-can/-/A-94052261)** — $2.79($0.23/fluid ounce)Buy 5 for $12 select energy drinks
+- <a href='https://www.target.com/p/yough-mozzarella-cheese-frozen-pizza-11-3oz/-/A-94975371' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_bbb193c4-534e-4c65-b3e2-16b992bf3276?wid=384&qlt=80' alt='$10.99 Yough! Mozzarella Cheese Frozen Pizza - 11.3oz 4.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$10.99 Yough! Mozzarella Cheese Frozen Pizza - 11.3oz 4.8 out of 5 stars Add to cart](https://www.target.com/p/yough-mozzarella-cheese-frozen-pizza-11-3oz/-/A-94975371)** — $10.99
 - <a href='https://www.target.com/p/14oz-mama-needs-some-coffee-shortie-mug-green-room-essentials-8482/-/A-94797906' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_d36f1a28-1947-4848-9f7c-cbd5d1130558?wid=384&qlt=80' alt='$5.00 14oz Mama Needs Some Coffee Shortie Mug Green - Room Essentials™ 4.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.00 14oz Mama Needs Some Coffee Shortie Mug Green - Room Essentials™ 4.8 out of 5 stars Add to cart](https://www.target.com/p/14oz-mama-needs-some-coffee-shortie-mug-green-room-essentials-8482/-/A-94797906)** — $5.00
+- <a href='https://www.target.com/p/chobani-cookies-38-cream-coffee-creamer-24-fl-oz/-/A-77594352' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_592f2354-d907-49f7-9500-be6292299df3?wid=384&qlt=80' alt='$6.29 Chobani Cookies & Cream Coffee Creamer - 24 fl oz 4.5 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$6.29 Chobani Cookies & Cream Coffee Creamer - 24 fl oz 4.5 out of 5 stars Add to cart](https://www.target.com/p/chobani-cookies-38-cream-coffee-creamer-24-fl-oz/-/A-77594352)** — $6.29
 
 ### 99 Ranch Market — (select store)
 - （没有匹配到你的关键词）
@@ -40,6 +43,7 @@ _Last updated: 2026-05-12 18:18 UTC_
 - （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-05-13.csv](../data/daily-2026-05-13.csv)
 - [daily-2026-05-12.csv](../data/daily-2026-05-12.csv)
 - [daily-2026-05-11.csv](../data/daily-2026-05-11.csv)
 - [daily-2026-05-10.csv](../data/daily-2026-05-10.csv)
@@ -49,6 +53,5 @@ _Last updated: 2026-05-12 18:18 UTC_
 - [daily-2026-05-06.csv](../data/daily-2026-05-06.csv)
 - [daily-2026-05-05.csv](../data/daily-2026-05-05.csv)
 - [daily-2026-05-04.csv](../data/daily-2026-05-04.csv)
-- [daily-2026-05-03.csv](../data/daily-2026-05-03.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
