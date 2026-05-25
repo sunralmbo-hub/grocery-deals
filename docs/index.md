@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-05-24 17:16 UTC_
+_Last updated: 2026-05-25 17:59 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -26,13 +26,14 @@ _Last updated: 2026-05-24 17:16 UTC_
 ### Target — Sunnyvale (Store 2584)
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='Trending items available at this store' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Trending items available at this store](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
 - <a href='https://www.target.com/sl/sunnyvale/2584#skip' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='Skip to next section $3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 s' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[Skip to next section $3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 s](https://www.target.com/sl/sunnyvale/2584#skip)** — $3.99
-- <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart $2.3' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart $2.3](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
+- <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart $2.8' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart $2.8](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/super-swim-noodle-1-pc-colors-may-vary-sun-squad-8482/-/A-77334568' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_268b3ac7-0cba-4d0b-8194-e6a870f3d6e8?wid=384&qlt=80' alt='$2.40 Sale Super Pool Noodle 1 pc (Colors May Vary) - Sun Squad™: Floating Pool Game Toy 4.4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.40 Sale Super Pool Noodle 1 pc (Colors May Vary) - Sun Squad™: Floating Pool Game Toy 4.4 out of 5 stars Add to cart](https://www.target.com/p/super-swim-noodle-1-pc-colors-may-vary-sun-squad-8482/-/A-77334568)** — $2.40Sale
 - <a href='https://www.target.com/p/jet-puffed-jumbo-star-marshmallows-12oz/-/A-95044067' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_46eafc98-d6b3-4ad2-9f27-449ff698bcd7?wid=384&qlt=80' alt='$2.79 New lower price Buy 1 get 1 50% off select candy & snacks Jet-Puffed Jumbo Star Marshmallows - 12oz 4.8 out of 5 s' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 New lower price Buy 1 get 1 50% off select candy & snacks Jet-Puffed Jumbo Star Marshmallows - 12oz 4.8 out of 5 s](https://www.target.com/p/jet-puffed-jumbo-star-marshmallows-12oz/-/A-95044067)** — $2.79New lower priceBuy 1 get 1 50% off select candy & snacks
+- <a href='https://www.target.com/p/m-38-m-39-s-milk-chocolate-red-white-blue-mix-chocolate-candies-10oz/-/A-93620642' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0479f500-84c5-486b-bd4e-09c221aba24b?wid=384&qlt=80' alt='$5.89 ( $0.59 /ounce ) M&M's Milk Chocolate Red White Blue Mix Chocolate Candies - 10oz 4.7 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$5.89 ( $0.59 /ounce ) M&M's Milk Chocolate Red White Blue Mix Chocolate Candies - 10oz 4.7 out of 5 stars Add to cart](https://www.target.com/p/m-38-m-39-s-milk-chocolate-red-white-blue-mix-chocolate-candies-10oz/-/A-93620642)** — $5.89($0.59/ounce)
 
 ### 99 Ranch Market — (select store)
-- （没有匹配到你的关键词）
+- **[ERROR](https://www.99ranch.com/)**
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
 - **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
@@ -43,6 +44,7 @@ _Last updated: 2026-05-24 17:16 UTC_
 - **[ERROR](https://www.raleys.com/weekly-ad)**
 
 ## History (recent 10 days)
+- [daily-2026-05-25.csv](../data/daily-2026-05-25.csv)
 - [daily-2026-05-24.csv](../data/daily-2026-05-24.csv)
 - [daily-2026-05-23.csv](../data/daily-2026-05-23.csv)
 - [daily-2026-05-22.csv](../data/daily-2026-05-22.csv)
@@ -52,6 +54,5 @@ _Last updated: 2026-05-24 17:16 UTC_
 - [daily-2026-05-18.csv](../data/daily-2026-05-18.csv)
 - [daily-2026-05-17.csv](../data/daily-2026-05-17.csv)
 - [daily-2026-05-16.csv](../data/daily-2026-05-16.csv)
-- [daily-2026-05-15.csv](../data/daily-2026-05-15.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
