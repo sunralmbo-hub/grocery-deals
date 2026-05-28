@@ -1,5 +1,5 @@
 # Grocery Deals @ Sunnyvale, CA 94089
-_Last updated: 2026-05-27 18:34 UTC_
+_Last updated: 2026-05-28 18:44 UTC_
 
 ## Matches
 ### Safeway — 639 S Bernardo Ave (Sunnyvale)
@@ -31,20 +31,18 @@ _Last updated: 2026-05-27 18:34 UTC_
 - <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart $8.0' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart $8.0](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_0cbd59c2-2d2f-42f9-959d-39415c401796?wid=384&qlt=80' alt='$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.99 America’s 250 Anniversary Edition Birthday Cake Drizzled Mini Rice Cakes - 4oz 4.8 out of 5 stars Add to cart](https://www.target.com/p/america-8217-s-250-anniversary-edition-birthday-cake-drizzled-mini-rice-cakes-4oz/-/A-95254851)** — $3.99
 - <a href='https://www.target.com/p/super-swim-noodle-1-pc-colors-may-vary-sun-squad-8482/-/A-77334568' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_268b3ac7-0cba-4d0b-8194-e6a870f3d6e8?wid=384&qlt=80' alt='$3.00 Super Pool Noodle 1 pc (Colors May Vary) - Sun Squad™: Floating Pool Game Toy 4.4 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$3.00 Super Pool Noodle 1 pc (Colors May Vary) - Sun Squad™: Floating Pool Game Toy 4.4 out of 5 stars Add to cart](https://www.target.com/p/super-swim-noodle-1-pc-colors-may-vary-sun-squad-8482/-/A-77334568)** — $3.00
-- <a href='https://www.target.com/p/jet-puffed-jumbo-star-marshmallows-12oz/-/A-95044067' target='_blank'><img src='https://target.scene7.com/is/image/Target/GUEST_46eafc98-d6b3-4ad2-9f27-449ff698bcd7?wid=384&qlt=80' alt='$2.79 New lower price Jet-Puffed Jumbo Star Marshmallows - 12oz 4.8 out of 5 stars Add to cart' width='80' style='vertical-align:middle;margin-right:8px;'/></a> **[$2.79 New lower price Jet-Puffed Jumbo Star Marshmallows - 12oz 4.8 out of 5 stars Add to cart](https://www.target.com/p/jet-puffed-jumbo-star-marshmallows-12oz/-/A-95044067)** — $2.79New lower price
 
 ### 99 Ranch Market — (select store)
-- **[ERROR](https://www.99ranch.com/)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Mountain View (Grant Rd)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-grant-mountain-view-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ### Nob Hill Foods — Santa Clara (Monroe St)
-- **[ERROR](https://raleys.com/stores/nob-hill-foods-monroe-santa-california)**
-- **[ERROR](https://www.raleys.com/weekly-ad)**
+- （没有匹配到你的关键词）
 
 ## History (recent 10 days)
+- [daily-2026-05-28.csv](../data/daily-2026-05-28.csv)
 - [daily-2026-05-27.csv](../data/daily-2026-05-27.csv)
 - [daily-2026-05-26.csv](../data/daily-2026-05-26.csv)
 - [daily-2026-05-25.csv](../data/daily-2026-05-25.csv)
@@ -54,6 +52,5 @@ _Last updated: 2026-05-27 18:34 UTC_
 - [daily-2026-05-21.csv](../data/daily-2026-05-21.csv)
 - [daily-2026-05-20.csv](../data/daily-2026-05-20.csv)
 - [daily-2026-05-19.csv](../data/daily-2026-05-19.csv)
-- [daily-2026-05-18.csv](../data/daily-2026-05-18.csv)
 
 > 仅供个人跟踪使用；商品与价格以各超市官网为准。
