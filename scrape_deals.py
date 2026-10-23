@@ -280,7 +280,7 @@ def main():
 
     write_daily_and_all(all_rows)
 
-    out_path = cfg.get("output", {}).get("path", "./docs/index.md")
+    out_path = cfg.get("output", {}).get("path", "./docs/legacy-list.md")
     pathlib.Path(os.path.dirname(out_path)).mkdir(parents=True, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(render_index_md(cfg, grouped))

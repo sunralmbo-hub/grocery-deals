@@ -67,4 +67,4 @@ stores:
 
 output:
   format: "markdown"
-  path: "./docs/index.md"
+  path: "./docs/legacy-list.md"
