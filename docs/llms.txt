@@ -1,0 +1,16 @@
+# Cereva
+
+> 比较美国购买与中国购买并转运的商品成本。公开静态网站，不提供自动实时采价或聊天记录收集。
+
+## Shopping decision skill
+
+- [Cereva 拍照购物判断 skill](https://cereva.si/skill.txt): 用户要求使用 Cereva 判断照片、商品或报价时，可读取这份公开流程，核对规格、价格来源与含运输成本。无需本地安装。
+
+## Reference data
+
+- [价格地图](https://cereva.si/): 可调汇率和运输假设。
+- [公开参考记录](https://cereva.si/public-products.json): 包含历史价格和人工估算，不能当作已核实实时行情。
+
+## Availability
+
+这是帮助助手发现文档的索引，不保证 ChatGPT 或其他助手自动读取、安装或遵循 skill。此流程不要求上传照片或询价到 Cereva；静态托管平台可能处理常规访问日志。
