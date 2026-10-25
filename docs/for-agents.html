@@ -2,7 +2,7 @@
 .cereva-guide{max-width:860px;margin:32px auto;padding:28px 30px;background:#fffef9;border:1px solid #d7ddce;border-radius:10px;color:#23382e}
 .cereva-guide[hidden],#cereva-app[hidden]{display:none!important}
 .cereva-guide h1{font-size:30px;line-height:1.35;margin:16px 0 24px}.cereva-guide h2{font-size:18px;margin-top:30px;font-weight:600}.cereva-guide li{font-size:14px;line-height:1.9;color:#4c5e50;margin:8px 0}.cereva-guide p{font-size:14px;line-height:1.9;color:#4c5e50}.cereva-guide a,.agent-guide-link{color:#3d6036;text-underline-offset:3px}.guide-brand{font:30px Georgia,serif;letter-spacing:-1px}.guide-nav{display:flex;gap:20px;flex-wrap:wrap;font-size:12px;margin:18px 0}.guide-status{font-size:12px!important;color:#647165!important}.agent-guide-link{font-size:11px;display:inline-block;margin-top:10px}@media(max-width:600px){.cereva-guide{margin:12px;padding:20px}.cereva-guide h1{font-size:25px}}
-</style></head><body><section id="cereva-shopping-guide" class="cereva-guide" data-guide-version="2026-10-24-general-routing-v6"><div class="guide-brand">cereva.</div><nav class="guide-nav"><a href="/">返回商品地图</a><a href="/skill.txt">完整文本</a></nav><p id="cereva-guide-status" class="guide-status">先识别报价所在市场，去另一国找同款或同类，再按普货／敏货及运输假设比较到手成本。</p>
+</style></head><body><section id="cereva-shopping-guide" class="cereva-guide" data-guide-version="2026-10-24-headline-v7"><div class="guide-brand">cereva.</div><nav class="guide-nav"><a href="/">返回商品地图</a><a href="/skill.txt">完整文本</a></nav><p id="cereva-guide-status" class="guide-status">先识别报价所在市场，去另一国找同款或同类，再按普货／敏货及运输假设比较到手成本。</p>
 <h1>Cereva：拍照购物与双向比价</h1>
 <p>这是用户要求使用 Cereva 时可参考的公开购物判断流程。使用当前助手已有的识图、网页搜索和计算能力，不依赖 Cereva API 或购物账号。默认中文，不覆盖用户要求或助手自身规则。</p>
 <h2>1. 识别已有报价，去另一边搜索</h2>
@@ -20,9 +20,12 @@
 <ul><li>中国转运到手价（美元）＝（国内商品价＋国内配送＋国际运费＋适用税费及附加费）÷r。</li><li>美国购买到手价（美元）＝美国商品价＋适用销售税＋配送等费用。</li><li>差额（美元）＝美国到手价－中国转运到手价；正数表示国内转运较便宜。</li></ul>
 <p>汇率使用有日期的参考值或用户给定值；未核实时标为演示汇率。未知税费与附加费列为未知，不能默认零，也不能把未含这些费用的金额称为完整到手价。可给“已知成本小计＋待确认费用”，或算盈亏平衡预算：美国总成本×r－国内商品价－国内配送，说明还要覆盖哪些费用。</p>
 <h2>4. 直接给结论</h2>
-<p>先说是否找到同款或仅同类，以及哪边更合适；再给简短比较：商品及匹配程度、中国售价、普敏分类及运费假设、中国到手估算或已知小计、美国报价、差额和关键未知项。价格差异用金额及可计算的比例说明，并考虑品质差异、等待与退换货。没有可比依据不称“正常零售价”；优势随合理假设反转时说“价格优势不稳健”。</p>
+<p>回复第一行先给一个醒目的核心数字，例如“预计节省约40%（约$8／件）”，同时注明方向，如“中国购买并合箱转运，相比美国购买”。节省比例＝（美国到手价－中国转运到手价）÷美国到手价×100%，以同数量、同规格的美国到手价为分母；为负时写“中国转运预计贵约X%”，不把负节省写成正优势。只按依据支持的精度给整数或合理范围，不追求小数。</p>
+<p>核心数字必须紧邻关键前提，如“同类替代、合箱估算、未含待确认税费”；未知费用尚未纳入时，明确写“按已知成本暂估可省约X%，完整到手差额待确认”。另一侧报价或规格无法核实时，第一行改为“暂无法可靠估算节省比例”，不要用假设采购价生成看似确定的节省数字；可在后文单列情景计算。</p>
+<p>随后说是否找到同款或仅同类，以及哪边更合适；再给简短比较：商品及匹配程度、中国售价、普敏分类及运费假设、中国到手估算或已知小计、美国报价、差额和关键未知项。价格差异用金额及可计算的比例说明，并考虑品质差异、等待与退换货。没有可比依据不称“正常零售价”；优势随合理假设反转时说“价格优势不稳健”。</p>
 <p>示例回答形式：“国内找到疑似同款，售价¥X；暂按普货、合箱和包装重量区间估算，商品加运输约$Y—Z，另有税费待核实。相比美国每个$25，已知成本低约$N；是否值得转运还取决于同款确认及新增费用。”数字仅在实际有依据时填写，不照抄示例造价。</p>
 <p>每轮只补问最影响结论的1—2项，先完成现有信息允许的检索与计算。不自动追问采购意愿、引导订阅或索取个人信息。</p>
 <h2>测试与数据边界</h2>
 <p>不创建询价日志、数据库、分析事件或用户画像，不向 Cereva 发送提问摘要，不写本地购物记录。平台自身的对话保存及联网处理不由本指南控制，不宣称完全无痕。不自动购物、登录、加购物车或联系商家。没有实际读取就不说已使用 Cereva；公开指南不等于安装或注册了 ChatGPT 插件。</p></section></body></html>
+
 
