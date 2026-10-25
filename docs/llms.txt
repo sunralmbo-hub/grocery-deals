@@ -4,7 +4,7 @@
 
 ## Shopping decision skill
 
-- [Cereva 拍照购物判断 skill](https://cereva.si/skill.txt): 用户要求使用 Cereva 判断照片、商品或报价时，可读取这份公开流程，核对规格、价格来源与含运输成本。无需本地安装。
+- [Cereva 拍照购物判断 skill](https://cereva.si/skill.txt): 用户要求使用 Cereva 判断照片、商品或报价时，可读取这份公开流程，先识别美元／人民币报价所在市场，优先去另一国找同款或同类，再判断普敏属性并比较转运到手成本。无需本地安装。
 
 ## Reference data
 
